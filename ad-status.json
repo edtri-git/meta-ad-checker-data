@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:23:44.875Z",
+  "generatedAt": "2026-08-24T21:23:50.588Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2397,12 +2397,588 @@
     },
     {
       "platform": "Pinterest",
-      "name": "Error: Pinterest Ads failure (Your query took too much time to process. Please try again later.)",
-      "type": "MALFORMED NAME",
+      "name": "AU to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Group",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Island",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Paddleboarding",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Turtle",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Flash Sale Aug 2026 | SIA | 20/08/26 - 31/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to JP | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to US | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to US | Non Sale | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to AU | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to AU | Global Sale Q3 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to AU | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q3 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q3 2026 | VID | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q3 Aug 2026 | VID | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | Vid | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Global Sale Q3 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Capital - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Capital Picture - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Cultural Tour - Learn the Story of Australias People | 2025 one world",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Cultural Tour - Learn the story of australias culture | 2025 oneworld",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Drinking Wine - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "JP to AU | Non Sale | SIA | Always On | JP",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "JP to FJ | Non Sale | July 2025 | SIA | Always On | EN",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "JP to FJ | Non Sale | SIA | Always On | JP",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "JP to NZ | Non Sale | SIA | Always On | JP",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Mini Balloons - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Flash Sale Aug 2026 | SIA | 14/08/26 - 31/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to JP | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to US | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to US | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to AU | Experience Gold Coast | Non Sale | Always on | 01/07/26 - 31/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to AU | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26 | OW",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to AU | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Group",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Island",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Paddleboarding",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Turtle",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Flash Sale Jul 2026 | Vid | 17/07/26 - 31/07/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-07-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26 | OW",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Global Sale Q3 Aug 2026 | VID | 11/08/26 - 26/08/26 | OW",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Performance + | Non Sale | Oct 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26 | OW",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Global Sale Q3 Aug 2026 | SIA | 11/08/26 - 26/08/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "YVR to NAN | Cyber Monday 2024 Sale | Ends on 09/12/24",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     }
   ]
 }
