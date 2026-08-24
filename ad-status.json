@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:23:44.428Z",
+  "generatedAt": "2026-08-24T23:23:52.364Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1506,6 +1506,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26",
       "type": "DATED SALE",
       "startDate": "2026-08-19",
@@ -1591,6 +1600,15 @@
       "type": "DATED SALE",
       "startDate": "2026-08-19",
       "endDate": "2026-09-07",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1849,6 +1867,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
