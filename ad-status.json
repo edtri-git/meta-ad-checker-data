@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:23:45.952Z",
+  "generatedAt": "2026-08-24T08:23:55.988Z",
   "ads": [
     {
       "platform": "Meta",
@@ -688,6 +688,15 @@
     {
       "platform": "Meta",
       "name": "Europe | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | Freight | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
