@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:24:44.361Z",
+  "generatedAt": "2026-08-25T15:23:47.631Z",
   "ads": [
     {
       "platform": "Meta",
@@ -175,6 +175,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Singapore | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -490,6 +499,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
