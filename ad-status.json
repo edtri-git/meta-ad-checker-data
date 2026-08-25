@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:23:44.280Z",
+  "generatedAt": "2026-08-25T06:23:43.777Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1375,6 +1375,15 @@
       "type": "DATED SALE",
       "startDate": "2026-08-21",
       "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Samoa | Prospecting | Static Ads |  Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
