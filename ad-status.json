@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:23:44.537Z",
+  "generatedAt": "2026-08-26T15:23:45.033Z",
   "ads": [
     {
       "platform": "Meta",
@@ -786,6 +786,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | All Markets | Fathers Day Sale Aug 2026 | Start=27-08-26 | End=31-08-26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | International | Carousel | Asia | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -868,6 +877,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | couple underwater | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
       "endDate": "2026-08-31",
