@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T22:23:43.662Z",
+  "generatedAt": "2026-08-26T23:23:44.853Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1569,6 +1569,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1939,6 +1948,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
