@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T04:23:48.821Z",
+  "generatedAt": "2026-08-27T05:24:21.042Z",
   "ads": [
     {
       "platform": "Meta",
@@ -327,15 +327,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=26-08-26",
-      "type": "DATED SALE",
-      "startDate": "2026-08-11",
-      "endDate": "2026-08-26",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=31-08-26",
       "type": "DATED SALE",
       "startDate": "2026-08-11",
@@ -481,6 +472,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
