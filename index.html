@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ad status board</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700;800&display=swap');
+
+  :root{
+    --bg:#050505;
+    --panel:#111111;
+    --panel-2:#191919;
+    --hairline:#2a2a2a;
+    --yellow:#fff42a;
+    --white:#ffffff;
+    --muted:#bfbfbf;
+    --data:#d9d9d9;
+    --green:#5fd88f;
+    --green-bg:#12251c;
+    --red:#ff6b6b;
+    --red-bg:#2a1414;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);font-family:'Manrope',sans-serif;color:var(--white);}
+  .board{max-width:1080px;margin:0 auto;padding:0 0 0;}
+
+  .topbar{display:flex;align-items:center;justify-content:space-between;padding:20px 24px;}
+  .logo-badge{background:var(--yellow);color:#000;font-weight:800;font-size:14px;letter-spacing:3px;
+    padding:10px 16px;text-transform:uppercase;}
+  .topbar .sub{font-size:13px;color:var(--muted);font-weight:300;}
+
+  .content{padding:8px 24px 32px;}
+
+  .eyebrow{font-weight:700;font-size:14px;letter-spacing:2.5px;color:var(--yellow);text-transform:uppercase;margin:0 0 8px;}
+  .headline{font-weight:300;font-size:28px;color:var(--white);margin:0 0 20px;letter-spacing:-0.3px;}
+
+  .status-row{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted);margin-bottom:20px;
+    font-weight:400;flex-wrap:wrap;}
+  .status-dot{width:8px;height:8px;border-radius:50%;background:var(--muted);display:inline-block;flex-shrink:0;}
+  .status-dot.ok{background:var(--green);}
+  .status-dot.err{background:var(--red);}
+  .status-dot.loading{background:var(--yellow);animation:pulse 1s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.3;}}
+
+  button{font-family:'Manrope',sans-serif;font-weight:700;background:transparent;border:1px solid var(--hairline);
+    color:var(--white);padding:8px 16px;border-radius:8px;cursor:pointer;font-size:12px;letter-spacing:1px;
+    text-transform:uppercase;}
+  button:hover{border-color:var(--yellow);color:var(--yellow);}
+  button:active{transform:scale(0.98);}
+
+  .platform-tabs{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;}
+  .ptab{font-weight:700;font-size:12px;padding:8px 18px;border-radius:8px;
+    border:1px solid var(--hairline);background:var(--panel);color:var(--muted);cursor:pointer;
+    text-transform:uppercase;letter-spacing:1.5px;}
+  .ptab.active{border-color:var(--yellow);color:var(--yellow);background:var(--panel-2);}
+
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:28px;}
+  .card{background:var(--panel);border:1px solid var(--hairline);border-radius:16px;padding:20px;
+    cursor:pointer;transition:border-color .1s;}
+  .card:hover{border-color:var(--muted);}
+  .card.total.selected{border-color:var(--white);}
+  .card.active.selected{border-color:var(--green);}
+  .card.pause.selected{border-color:var(--red);}
+  .card.check.selected{border-color:var(--yellow);}
+  .card .label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px;
+    margin-bottom:10px;font-weight:700;}
+  .card .num{font-weight:800;font-size:36px;letter-spacing:-0.5px;}
+  .card.total .num{color:var(--white);}
+  .card.active .num{color:var(--green);}
+  .card.pause .num{color:var(--red);}
+  .card.check .num{color:var(--yellow);}
+
+  .toolbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;}
+  .toggle-wrap{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted);font-weight:400;}
+  .toggle{width:38px;height:22px;background:var(--panel-2);border:1px solid var(--hairline);border-radius:11px;
+    position:relative;cursor:pointer;flex-shrink:0;}
+  .toggle .knob{width:16px;height:16px;border-radius:50%;background:var(--muted);position:absolute;top:2px;left:2px;
+    transition:all .15s;}
+  .toggle.on{border-color:var(--yellow);}
+  .toggle.on .knob{left:19px;background:var(--yellow);}
+
+  .table-wrap{background:var(--panel);border:1px solid var(--hairline);border-radius:16px;overflow:hidden;}
+  table{width:100%;border-collapse:collapse;font-size:13px;table-layout:fixed;}
+  thead th{text-align:left;font-size:11px;text-transform:uppercase;font-weight:700;
+    letter-spacing:1.5px;color:var(--muted);padding:14px 14px;background:var(--panel);}
+  tbody td{padding:12px 14px;border-top:1px solid var(--hairline);vertical-align:top;word-break:break-word;}
+  tbody tr:hover{background:var(--panel-2);}
+  .col-platform{width:11%;}
+  .col-name{width:39%;}
+  .col-type{width:16%;}
+  .col-dates{width:14%;font-size:12px;color:var(--muted);}
+  .col-status{width:20%;}
+
+  .plat-badge{font-size:10px;font-weight:700;padding:3px 8px;border-radius:6px;
+    background:var(--panel-2);color:var(--muted);text-transform:uppercase;letter-spacing:1px;}
+
+  .flap{display:inline-block;font-size:11px;font-weight:800;
+    padding:4px 10px;border-radius:6px;letter-spacing:.5px;text-transform:uppercase;}
+  .flap.keep{background:var(--green-bg);color:var(--green);}
+  .flap.pause{background:var(--red-bg);color:var(--red);}
+  .flap.check{background:#2a2408;color:var(--yellow);}
+
+  td.col-name{color:var(--data);font-weight:500;}
+  td.col-type{color:var(--muted);}
+
+  .note{font-size:11px;color:var(--muted);margin-top:3px;font-weight:400;}
+  .empty{text-align:center;padding:36px 10px;color:var(--muted);font-size:13px;}
+
+  .bottomband{display:flex;align-items:center;justify-content:space-between;background:#1f1e1e;
+    padding:16px 24px;margin-top:24px;}
+  .bottomband span{font-weight:300;font-size:13px;color:var(--white);}
+  .bottomband .mark{width:22px;height:22px;background:var(--yellow);border-radius:4px;}
+</style>
+</head>
+<body>
+<div class="board">
+
+  <div class="topbar">
+    <div class="logo-badge">Jaywing</div>
+    <div class="sub" id="clock"></div>
+  </div>
+
+  <div class="content">
+    <p class="eyebrow">Paid media operations</p>
+    <h1 class="headline">Ad status board</h1>
+
+    <div class="status-row">
+      <span class="status-dot loading" id="statusDot"></span>
+      <span id="statusText">Connecting...</span>
+      <button id="refreshBtn" style="margin-left:auto;">Refresh</button>
+    </div>
+
+    <div class="platform-tabs" id="platformTabs">
+      <div class="ptab active" data-platform="all">All</div>
+      <div class="ptab" data-platform="Meta">Meta</div>
+      <div class="ptab" data-platform="TikTok">TikTok</div>
+      <div class="ptab" data-platform="Pinterest">Pinterest</div>
+    </div>
+
+    <div class="cards" id="summaryCards">
+      <div class="card total" data-action=""><div class="label">Total ads</div><div class="num" id="numTotal">-</div></div>
+      <div class="card active" data-action="KEEP ACTIVE"><div class="label">Keep active</div><div class="num" id="numActive">-</div></div>
+      <div class="card pause" data-action="PAUSE"><div class="label">Needs pause</div><div class="num" id="numPause">-</div></div>
+      <div class="card check" data-action="CHECK NAME"><div class="label">Check name</div><div class="num" id="numCheck">-</div></div>
+    </div>
+
+    <div class="toolbar">
+      <div class="toggle-wrap">
+        <div class="toggle" id="filterToggle"><div class="knob"></div></div>
+        <span>Show exceptions only</span>
+      </div>
+      <span class="sub" id="rowCount" style="color:var(--muted);font-size:12px;"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th class="col-platform">Platform</th>
+            <th class="col-name">Ad name</th>
+            <th class="col-type">Type</th>
+            <th class="col-dates">Dates</th>
+            <th class="col-status">Status</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="emptyMsg" style="display:none;">No ads match this filter</div>
+  </div>
+
+  <div class="bottomband">
+    <span>© 2026 Jaywing Australia</span>
+    <div class="mark"></div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var GITHUB_USER = "edtri-git";
+  var GITHUB_REPO = "meta-ad-checker-data";
+  var GITHUB_BRANCH = "main";
+  var JSDELIVR_URL = "https://cdn.jsdelivr.net/gh/" + GITHUB_USER + "/" + GITHUB_REPO + "@" + GITHUB_BRANCH + "/ad-status.json";
+  var RAW_FALLBACK_URL = "https://raw.githubusercontent.com/" + GITHUB_USER + "/" + GITHUB_REPO + "/" + GITHUB_BRANCH + "/ad-status.json";
+  var STORAGE_KEY = "ad_status_board_snapshot";
+
+  var showExceptionsOnly = false;
+  var activePlatform = "all";
+  var activeAction = "";
+  var allAds = [];
+
+  function updateClock(){
+    var el = document.getElementById("clock");
+    var now = new Date();
+    el.textContent = now.toLocaleDateString('en-GB', {day:'2-digit', month:'short', year:'numeric'}) + " " +
+      now.toLocaleTimeString('en-GB', {hour:'2-digit', minute:'2-digit'});
+  }
+  updateClock();
+  setInterval(updateClock, 30000);
+
+  function setStatus(state, text){
+    var dot = document.getElementById("statusDot");
+    dot.className = "status-dot " + state;
+    document.getElementById("statusText").textContent = text;
+  }
+
+  function actionClass(action){
+    if(action === "KEEP ACTIVE") return "keep";
+    if(action === "PAUSE") return "pause";
+    return "check";
+  }
+
+  function escapeHtml(s){
+    var d = document.createElement("div");
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function render(){
+    var filtered = activePlatform === "all" ? allAds : allAds.filter(function(a){return a.platform === activePlatform;});
+
+    var total = filtered.length;
+    var active = filtered.filter(function(a){return a.action === "KEEP ACTIVE";}).length;
+    var pause = filtered.filter(function(a){return a.action === "PAUSE";}).length;
+    var check = filtered.filter(function(a){return a.action === "CHECK NAME";}).length;
+
+    document.getElementById("numTotal").textContent = total;
+    document.getElementById("numActive").textContent = active;
+    document.getElementById("numPause").textContent = pause;
+    document.getElementById("numCheck").textContent = check;
+
+    var visible = filtered;
+    if(activeAction){
+      visible = visible.filter(function(a){return a.action === activeAction;});
+    } else if(showExceptionsOnly){
+      visible = visible.filter(function(a){return a.action !== "KEEP ACTIVE";});
+    }
+
+    document.querySelectorAll("#summaryCards .card").forEach(function(c){
+      c.classList.toggle("selected", c.getAttribute("data-action") === activeAction && activeAction !== "");
+    });
+
+    var tbody = document.getElementById("tbody");
+    tbody.innerHTML = "";
+
+    document.getElementById("emptyMsg").style.display = visible.length === 0 ? "block" : "none";
+    document.getElementById("rowCount").textContent = visible.length + " of " + total + " shown";
+
+    visible.forEach(function(r){
+      var tr = document.createElement("tr");
+      var dateStr = (r.startDate || r.endDate) ? ((r.startDate || "-") + " to " + (r.endDate || "-")) : "-";
+      tr.innerHTML =
+        '<td class="col-platform"><span class="plat-badge">' + escapeHtml(r.platform) + '</span></td>' +
+        '<td class="col-name">' + escapeHtml(r.name) + '</td>' +
+        '<td class="col-type">' + escapeHtml(r.type) + '</td>' +
+        '<td class="col-dates">' + dateStr + '</td>' +
+        '<td class="col-status"><span class="flap ' + actionClass(r.action) + '">' + r.action + '</span>' +
+        (r.note ? '<div class="note">' + escapeHtml(r.note) + '</div>' : '') + '</td>';
+      tbody.appendChild(tr);
+    });
+  }
+
+  async function tryFetch(url){
+    try {
+      var bust = url + (url.indexOf("?") === -1 ? "?" : "&") + "_=" + Date.now();
+      var res = await fetch(bust, {cache: "no-store"});
+      if(!res.ok) return null;
+      var json = await res.json();
+      if(!json || !json.ads) return null;
+      return json;
+    } catch(e){
+      return null;
+    }
+  }
+
+  async function fetchAndRender(){
+    setStatus("loading", "Refreshing...");
+
+    var data = await tryFetch(JSDELIVR_URL);
+    if(!data) data = await tryFetch(RAW_FALLBACK_URL);
+
+    if(!data){
+      setStatus("err", "Could not fetch ad-status.json. Check the repo/branch name, or that the Apps Script trigger has run at least once.");
+      await loadCachedSnapshot(true);
+      return;
+    }
+
+    allAds = data.ads;
+    render();
+
+    var generated = data.generatedAt ? new Date(data.generatedAt) : new Date();
+    setStatus("ok", "Data generated " + generated.toLocaleDateString('en-GB') + " " +
+      generated.toLocaleTimeString('en-GB', {hour:'2-digit', minute:'2-digit'}));
+
+    try {
+      await window.storage.set(STORAGE_KEY, JSON.stringify({ads: allAds, ts: Date.now()}));
+    } catch(e) {}
+  }
+
+  async function loadCachedSnapshot(isErrorFallback){
+    try {
+      var cached = await window.storage.get(STORAGE_KEY);
+      if(cached){
+        var parsed = JSON.parse(cached.value);
+        allAds = parsed.ads;
+        render();
+        if(isErrorFallback){
+          var ts = new Date(parsed.ts);
+          document.getElementById("statusText").textContent =
+            "Showing cached data from " + ts.toLocaleDateString('en-GB') + " " +
+            ts.toLocaleTimeString('en-GB', {hour:'2-digit', minute:'2-digit'}) + " (fetch failed)";
+        }
+      }
+    } catch(e) {}
+  }
+
+  document.getElementById("refreshBtn").addEventListener("click", fetchAndRender);
+
+  document.getElementById("filterToggle").addEventListener("click", function(){
+    showExceptionsOnly = !showExceptionsOnly;
+    activeAction = "";
+    this.classList.toggle("on", showExceptionsOnly);
+    render();
+  });
+
+  document.getElementById("summaryCards").addEventListener("click", function(e){
+    var card = e.target.closest(".card");
+    if(!card) return;
+    var action = card.getAttribute("data-action");
+    activeAction = (activeAction === action) ? "" : action;
+    if(activeAction){
+      showExceptionsOnly = false;
+      document.getElementById("filterToggle").classList.remove("on");
+    }
+    render();
+  });
+
+  document.getElementById("platformTabs").addEventListener("click", function(e){
+    var tab = e.target.closest(".ptab");
+    if(!tab) return;
+    document.querySelectorAll(".ptab").forEach(function(t){t.classList.remove("active");});
+    tab.classList.add("active");
+    activePlatform = tab.getAttribute("data-platform");
+    render(); // action filter intentionally persists across platform switches
+  });
+
+  (async function init(){
+    await loadCachedSnapshot(false);
+    fetchAndRender();
+    setInterval(fetchAndRender, 5 * 60 * 1000);
+  })();
+
+})();
+</script>
+</body>
+</html>
