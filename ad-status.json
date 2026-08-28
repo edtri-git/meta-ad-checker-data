@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T01:23:50.177Z",
+  "generatedAt": "2026-08-28T02:23:49.694Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1336,6 +1336,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Sales | Static Ads | Samoa | Audience Segment | VFR Samoa | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Tonga | Audience Segment | VFR Tonga | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
