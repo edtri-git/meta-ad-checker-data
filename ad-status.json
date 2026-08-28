@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:23:45.094Z",
+  "generatedAt": "2026-08-28T23:23:44.341Z",
   "ads": [
     {
       "platform": "Meta",
@@ -166,6 +166,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
