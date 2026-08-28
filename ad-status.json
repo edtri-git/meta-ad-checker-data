@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T00:23:45.360Z",
+  "generatedAt": "2026-08-28T01:23:50.177Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2379,15 +2379,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tourism Gold Coast_9.16 30sec_AOZFTY5b.mp4_US to Gold Coast | Experience Gold Coast | 15 sec | Non Sale | 01/07/26 - 31/08/26",
-      "type": "DATED SALE",
-      "startDate": "2026-07-01",
-      "endDate": "2026-08-31",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2511,6 +2502,15 @@
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -2829,6 +2829,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "Flight Deals - Gold Coast to Fiji - 1 - 9 April",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "Pinterest",
       "name": "JP to AU | Non Sale | SIA | Always On | JP",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2848,6 +2857,15 @@
     {
       "platform": "Pinterest",
       "name": "JP to FJ | Non Sale | SIA | Always On | JP",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "JP to NZ | Global Sale May 2025 | SIA | Ends on 02/06/25 | EN",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2943,15 +2961,6 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "Pacific Sale Ends 12/04/24",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
