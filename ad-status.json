@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T14:23:46.090Z",
+  "generatedAt": "2026-08-29T15:23:44.757Z",
   "ads": [
     {
       "platform": "Meta",
@@ -922,6 +922,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Video | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
       "endDate": "2026-08-31",
