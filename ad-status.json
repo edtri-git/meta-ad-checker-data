@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:23:46.836Z",
+  "generatedAt": "2026-08-29T17:23:48.583Z",
   "ads": [
     {
       "platform": "Meta",
@@ -516,6 +516,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -913,6 +922,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
       "endDate": "2026-08-31",
