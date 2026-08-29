@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:23:45.546Z",
+  "generatedAt": "2026-08-29T09:23:44.885Z",
   "ads": [
     {
       "platform": "Meta",
@@ -498,6 +498,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | Carousel | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=31-08-26",
       "type": "DATED SALE",
       "startDate": "2026-08-11",
@@ -823,6 +841,33 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
       "endDate": "2026-08-31",
@@ -1191,6 +1236,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Tonga | Audience Segment | VFR Tonga | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=21-08-26 | end=04-09-26",
       "type": "DATED SALE",
       "startDate": "2026-08-21",
@@ -1348,6 +1402,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-07",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1659,6 +1722,33 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Australia | TEQ Cairns | SIA | Non Sale | Always On | Start=28-08-26 | End=28-10-26 | rainforest",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": "2026-08-28",
+      "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | Carousel | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=31-08-26 | ow",
       "type": "DATED SALE",
       "startDate": "2026-08-11",
@@ -1696,6 +1786,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=31-08-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q3 Aug 2026 | start=11-08-26 | end=31-08-26 | 2 friends | ow",
       "type": "DATED SALE",
       "startDate": "2026-08-11",
       "endDate": "2026-08-31",
@@ -1938,6 +2037,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Australia | TEQ Cairns | Flexible | Non Sale | Always On | Start=28-08-26 | End=28-10-26",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": "2026-08-28",
+      "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Sales | Static Ads | Australia | TEQ Cairns | SIA | Non Sale | Always On | Start=28-08-26 | End=28-10-26 | Great Barrier Reef",
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
@@ -1993,6 +2101,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2064,19 +2181,19 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tourism Gold Coast_9.16 30sec_AOZFTY5b.mp4_US to Gold Coast | Experience Gold Coast | 15 sec | Non Sale | 01/07/26 - 31/08/26",
-      "type": "DATED SALE",
-      "startDate": "2026-07-01",
-      "endDate": "2026-08-31",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "Tourism Gold Coast_9.16 30sec_AOZFTY5b.mp4_US to Gold Coast | Experience Gold Coast | 15 sec | Non Sale | 01/07/26 - 31/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-31",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2190,21 +2307,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
