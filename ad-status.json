@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T15:23:45.924Z",
+  "generatedAt": "2026-08-30T16:23:47.654Z",
   "ads": [
     {
       "platform": "Meta",
@@ -903,6 +903,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | culture | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
@@ -1651,6 +1660,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
