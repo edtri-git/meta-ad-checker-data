@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:23:44.899Z",
+  "generatedAt": "2026-08-30T19:24:06.659Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1534,6 +1534,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-07",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26 | beach running",
       "type": "DATED SALE",
       "startDate": "2026-08-19",
       "endDate": "2026-09-07",
