@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:23:51.445Z",
+  "generatedAt": "2026-08-31T11:23:44.283Z",
   "ads": [
     {
       "platform": "Meta",
@@ -660,6 +660,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Australia | Carousel | Experience Gold Coast | non sale | always on | start=01-07-26 | end=31-08-26 | Luxury",
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-07-01",
@@ -862,6 +871,24 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | couple underwater | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2343,6 +2370,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
       "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2367,15 +2403,6 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -2794,6 +2821,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to DFW | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
