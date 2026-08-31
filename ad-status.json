@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T02:23:46.422Z",
+  "generatedAt": "2026-08-31T03:23:45.534Z",
   "ads": [
     {
       "platform": "Meta",
@@ -949,6 +949,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q3 Jul 2026 | Start=21-07-26 | End=31-08-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-07-21",
       "endDate": "2026-08-31",
@@ -2029,6 +2038,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | Carousel | Global Sale Q3 Aug 2026 | start=11-08-26 | end=31-08-26 | couple | ow",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | Flexible | Global Sale Q3 Aug 2026 | Start=11-08-26 | End=31-08-26 | ow",
       "type": "DATED SALE",
       "startDate": "2026-08-11",
       "endDate": "2026-08-31",
