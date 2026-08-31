@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:23:45.486Z",
+  "generatedAt": "2026-08-31T16:23:53.969Z",
   "ads": [
     {
       "platform": "Meta",
@@ -171,6 +171,15 @@
       "endDate": "2026-08-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-08-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | villa | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1101,6 +1110,33 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Prospecting | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Prospecting | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | culture | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Prospecting | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | villa | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1141,6 +1177,42 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | culture | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | villa | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
     },
