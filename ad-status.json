@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T14:23:44.928Z",
+  "generatedAt": "2026-08-31T15:23:45.486Z",
   "ads": [
     {
       "platform": "Meta",
@@ -21,6 +21,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Flash Sale Aug 2026 | Start=20-08-26 | End=31-08-26 | one way",
       "type": "DATED SALE",
       "startDate": "2026-08-20",
@@ -30,12 +39,39 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Aug 2026 | Start=20-08-26 | End=31-08-26",
       "type": "DATED SALE",
       "startDate": "2026-08-20",
       "endDate": "2026-08-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-08-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | generic 75 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | villa | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -106,6 +142,24 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -183,12 +237,39 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Flash Sale Aug 2026 | Start=20-08-26 | End=31-08-26",
       "type": "DATED SALE",
       "startDate": "2026-08-20",
       "endDate": "2026-08-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-08-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | villa | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1290,6 +1371,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Fiji | Carousel | Flash Sale Aug 2026 | Start=14-08-26 | End=31-08-26 | one way",
       "type": "DATED SALE",
       "startDate": "2026-08-14",
@@ -1318,6 +1408,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | culture | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | villa | one way",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-04",
@@ -2037,7 +2136,25 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2308,6 +2425,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Australia | Experience Gold Coast | Carousel | Non Sale | Always On | Start=01-07-26 | End=31-08-26 | Wildlife",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-31",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Australia | Experience Gold Coast | Flexible | Non Sale | Always On | Start=01-07-26 | End=31-08-26",
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-07-01",
       "endDate": "2026-08-31",
