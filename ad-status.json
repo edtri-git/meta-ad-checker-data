@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:23:45.656Z",
+  "generatedAt": "2026-09-01T06:23:45.721Z",
   "ads": [
     {
       "platform": "Meta",
@@ -220,6 +220,24 @@
     {
       "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Singapore | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1714,6 +1732,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Sales | Static Ads | Samoa | Audience Segment | VFR Samoa | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Tonga | Audience Segment | VFR Tonga | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
