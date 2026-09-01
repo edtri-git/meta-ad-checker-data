@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:23:45.502Z",
+  "generatedAt": "2026-09-01T19:23:51.405Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2820,6 +2820,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to FJ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "CA to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2887,6 +2896,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
       "action": "KEEP ACTIVE",
       "note": ""
     },
