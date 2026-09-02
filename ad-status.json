@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:25:45.982Z",
+  "generatedAt": "2026-09-02T15:23:45.447Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1507,6 +1507,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
