@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:23:45.328Z",
+  "generatedAt": "2026-09-02T12:23:45.102Z",
   "ads": [
     {
       "platform": "Meta",
@@ -705,6 +705,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -732,6 +741,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 10/90",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 15/85",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 25/75",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -741,7 +768,43 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 50/50",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 80/20",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |Video | start=01-09-26 | end=10-10-26 | 1",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |Video | start=01-09-26 | end=10-10-26 | 2",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |Video | start=01-09-26 | end=10-10-26 | 3",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-10",
@@ -867,6 +930,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -889,6 +961,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1470,6 +1551,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | Carousel | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26",
       "type": "DATED SALE",
       "startDate": "2026-08-19",
@@ -1785,6 +1875,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | culture | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -1876,6 +1975,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | Video | Start=01-09-26 | End=10-10-26 | 2",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | Video | Start=01-09-26 | End=10-10-26 | 3",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-10",
@@ -2217,6 +2325,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | Video | Start=01-09-26 | End=10-10-26 | 1",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | Video | Start=01-09-26 | End=10-10-26 | 2",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -2253,6 +2370,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
       "name": "USA to CAIRNS_9.16 15sec (1)_PDdJvQAr.mp4_US to Cairns | TEQ Cairns | 15 sec | Non Sale | 28/08/26 - 28/10/26",
       "type": "DATED SALE",
       "startDate": "2026-08-28",
@@ -2268,15 +2394,6 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -2304,6 +2421,15 @@
       "endDate": "2026-08-26",
       "action": "PAUSE",
       "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2343,7 +2469,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
+      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2352,7 +2487,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2370,39 +2505,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "GSQ3_YVR to FIJI_30sec_9.16_ Video_PSOy8Ub3.mp4_CA to FJ | Global Sale Q3 Aug 2026 | 30 sec | 11/08/26 - 26/08/26",
-      "type": "DATED SALE",
-      "startDate": "2026-08-11",
-      "endDate": "2026-08-26",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
       "endDate": "2026-03-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "GSQ3_YVR to FIJI_30sec_9.16_ Video_PSOy8Ub3.mp4_CA to FJ | Global Sale Q3 Aug 2026 | 30 sec | 11/08/26 - 26/08/26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-26",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
