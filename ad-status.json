@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:23:44.671Z",
+  "generatedAt": "2026-09-02T20:23:44.866Z",
   "ads": [
     {
       "platform": "Meta",
@@ -412,6 +412,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -948,6 +957,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -1254,6 +1272,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Flights | Ski Ji | Static Ads | SIA | Non Sale | Always On | CA",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Flights | Ski Ji | Static Ads | SIA | Non Sale | Always On | JP",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1345,6 +1372,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Singapore | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1528,6 +1564,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-07",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2128,6 +2173,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
