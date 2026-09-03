@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:24:45.536Z",
+  "generatedAt": "2026-09-03T22:23:47.411Z",
   "ads": [
     {
       "platform": "Meta",
@@ -228,6 +228,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 V2 | Start=04-09-26 | End=08-09-26 | villa | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | SIA | Anniversary Sale Sep 2026 | Start=01-09-26 | End=04-09-26 | villa | one way",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -250,6 +259,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Japan | SIA | Anniversary Sale Sep 2026 V2 | Start=04-09-26 | End=08-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -390,6 +408,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Japan | SIA | Anniversary Sale Sep 2026 V2 | Start=04-09-26 | End=08-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -412,6 +439,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Tonga | SIA | Anniversary Sale Sep 2026 V2 | Start=04-09-26 | End=08-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1840,6 +1876,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=21-08-26 | end=04-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-08-21",
+      "endDate": "2026-09-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=21-08-26 | end=04-09-26 | fr",
       "type": "DATED SALE",
       "startDate": "2026-08-21",
       "endDate": "2026-09-04",
