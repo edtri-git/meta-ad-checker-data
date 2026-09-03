@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:23:47.626Z",
+  "generatedAt": "2026-09-03T14:23:46.537Z",
   "ads": [
     {
       "platform": "Meta",
@@ -237,6 +237,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale |  Always On | rope swing",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 6 sense",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -421,6 +430,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -907,8 +925,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-03",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-03 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -2545,8 +2563,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -2635,8 +2653,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -2653,8 +2671,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -2896,8 +2914,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -2941,8 +2959,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -2959,8 +2977,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-09-04 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
