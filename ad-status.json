@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:24:51.625Z",
+  "generatedAt": "2026-09-03T13:23:47.626Z",
   "ads": [
     {
       "platform": "Meta",
@@ -867,6 +867,33 @@
     },
     {
       "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Labasa",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Suva",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Western Division",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Whole Fiji",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1344,6 +1371,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Tonga | Audience Segment | VFR Tonga | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=21-08-26 | end=04-09-26",
       "type": "DATED SALE",
       "startDate": "2026-08-21",
@@ -1795,6 +1831,24 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 30 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2316,21 +2370,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2343,21 +2397,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
