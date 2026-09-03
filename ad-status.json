@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:23:43.897Z",
+  "generatedAt": "2026-09-03T10:24:54.429Z",
   "ads": [
     {
       "platform": "Meta",
@@ -921,6 +921,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -1488,6 +1497,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Natas Sale Aug 2026 | Start=19-08-26 | End=07-09-26 | beach running",
       "type": "DATED SALE",
       "startDate": "2026-08-19",
@@ -1552,6 +1570,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
