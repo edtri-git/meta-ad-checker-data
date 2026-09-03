@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:23:48.823Z",
+  "generatedAt": "2026-09-03T02:23:44.464Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3033,6 +3033,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Q2 2024 Global Sale ends 17/05/24",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
