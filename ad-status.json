@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:23:53.105Z",
+  "generatedAt": "2026-09-04T04:23:49.721Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1348,6 +1348,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
