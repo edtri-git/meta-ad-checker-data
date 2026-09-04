@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:23:44.938Z",
+  "generatedAt": "2026-09-04T10:23:46.172Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2253,21 +2253,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "75TH SALE-AU-FJ (ONLINE) 9.16.mp4._PZ3wGdNc.mp4_AU to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/04/26",
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-04-08",
       "action": "PAUSE",
       "note": "Sale window ended 2026-04-08 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2307,21 +2307,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
