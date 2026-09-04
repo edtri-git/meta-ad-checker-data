@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:23:44.528Z",
+  "generatedAt": "2026-09-04T17:24:02.449Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1003,6 +1003,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 30 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
