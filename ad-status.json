@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:23:56.650Z",
+  "generatedAt": "2026-09-05T08:23:43.850Z",
   "ads": [
     {
       "platform": "Meta",
@@ -585,15 +585,6 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Bulamail | Lead Gen | Static Ads",
-      "type": "NO TAG FOUND",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No Always On tag and no recognisable date range found"
     },
     {
       "platform": "Meta",
@@ -3063,21 +3054,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-NZ-FJ (ONLINE) 9.16.mp4._8mF0lGvH.mp4_NZ to FJ | Anniversary Sale Sep 2026 V2 | Vid | 04/09/26 - 08/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-08",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
       "endDate": "2026-03-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "75TH SALE-YVR-FJ (ONLINE) 9.16.mp4._7v6VarYP.mp4_CA to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -3090,30 +3081,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-AU-FJ (ONLINE) 9.16.mp4._PZ3wGdNc.mp4_AU to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/04/26",
+      "name": "75TH SALE-USA-FJ (ONLINE) 9.16.mp4._SvuyOVf0.mp4_US to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
       "type": "DATED SALE",
       "startDate": "2026-09-04",
-      "endDate": "2026-04-08",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-04-08 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -3126,12 +3108,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -3144,70 +3126,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
-    },
-    {
-      "platform": "TikTok",
-      "name": "GSQ3_USA to FIJI_30sec_9.16_ Video_GWZP5B8p.mp4_US to FJ | Global Sale Q3 Aug 2026 | 30 sec | 11/08/26 - 26/08/26",
+      "name": "75TH SALE-NZ-FJ (ONLINE) 9.16.mp4._8mF0lGvH.mp4_NZ to FJ | Anniversary Sale Sep 2026 V2 | Vid | 04/09/26 - 08/09/26",
       "type": "DATED SALE",
-      "startDate": "2026-08-11",
-      "endDate": "2026-08-26",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
       "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3225,15 +3153,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3243,12 +3162,84 @@
     },
     {
       "platform": "TikTok",
-      "name": "GSQ3_YVR to FIJI_30sec_9.16_ Video_PSOy8Ub3.mp4_CA to FJ | Global Sale Q3 Aug 2026 | 30 sec | 11/08/26 - 26/08/26",
-      "type": "DATED SALE",
-      "startDate": "2026-08-11",
-      "endDate": "2026-08-26",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-08-26 but ad still has recent impressions"
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -3414,15 +3405,6 @@
     },
     {
       "platform": "Pinterest",
-      "name": "CA to FJ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-04",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
       "name": "CA to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3465,15 +3447,6 @@
       "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "CA to NZ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-04",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
@@ -3541,6 +3514,15 @@
     {
       "platform": "Pinterest",
       "name": "Drinking Wine - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "HOU to FJ | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3618,15 +3600,6 @@
       "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "NZ to FJ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-04",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
@@ -3720,15 +3693,6 @@
     },
     {
       "platform": "Pinterest",
-      "name": "US to FJ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26 | RT",
-      "type": "DATED SALE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-04",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
       "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Group",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3816,15 +3780,6 @@
       "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "US to NZ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26 | RT",
-      "type": "DATED SALE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-04",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
     }
   ]
 }
