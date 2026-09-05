@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T06:23:44.274Z",
+  "generatedAt": "2026-09-05T07:23:56.650Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1443,6 +1443,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Australia | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1831,6 +1840,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Sales | Static Ads | Samoa | Audience Segment | VFR Samoa | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Tonga | Audience Segment | VFR Tonga | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -3600,6 +3618,15 @@
       "endDate": "2026-09-08",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Anniversary Sale Sep 2026 | SIA | 01/09/26 - 04/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-04",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-04 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
