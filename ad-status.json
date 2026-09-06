@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:25:11.371Z",
+  "generatedAt": "2026-09-06T02:23:44.401Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1299,6 +1299,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | Flexible | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -1507,6 +1516,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Flights | Short Lead Travellers | Static Ads | Destination | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Flights | Ski Ji | Static Ads | SIA | Non Sale | Always On | CA",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1957,6 +1975,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2446,6 +2473,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
