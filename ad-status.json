@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:23:44.745Z",
+  "generatedAt": "2026-09-06T00:23:44.359Z",
   "ads": [
     {
       "platform": "Meta",
@@ -850,6 +850,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Prospecting | Static Ads | Canberra | Carousel | Couples | Non Sale | Always On | 2025",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2200,6 +2209,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
