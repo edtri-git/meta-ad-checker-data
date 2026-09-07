@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:23:47.245Z",
+  "generatedAt": "2026-09-07T17:23:45.458Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2227,6 +2227,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
