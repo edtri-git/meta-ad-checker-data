@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:23:49.227Z",
+  "generatedAt": "2026-09-07T05:23:44.457Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1209,6 +1209,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Anniversary Sale Sep 2026 | Start=01-09-26 | End=08-09-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
@@ -2163,6 +2172,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On w/ AA",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2254,6 +2272,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
