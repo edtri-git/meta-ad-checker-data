@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:23:46.065Z",
+  "generatedAt": "2026-09-07T03:23:46.019Z",
   "ads": [
     {
       "platform": "Meta",
@@ -628,6 +628,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
