@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:23:51.765Z",
+  "generatedAt": "2026-09-08T17:23:46.973Z",
   "ads": [
     {
       "platform": "Meta",
@@ -360,6 +360,15 @@
       "endDate": "2026-09-08",
       "action": "PAUSE",
       "note": "Sale window ended 2026-09-08 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
