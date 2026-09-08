@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T07:23:53.493Z",
+  "generatedAt": "2026-09-08T08:23:47.659Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2928,21 +2928,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-AU-FJ (ONLINE) 9.16.mp4._PZ3wGdNc.mp4_AU to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/04/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-04",
-      "endDate": "2026-04-08",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-04-08 but ad still has recent impressions"
+      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-NZ-FJ (ONLINE) 9.16.mp4._8mF0lGvH.mp4_NZ to FJ | Anniversary Sale Sep 2026 V2 | Vid | 04/09/26 - 08/09/26",
+      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
       "type": "DATED SALE",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-08",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2955,16 +2955,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "75TH SALE-USA-FJ (ONLINE) 9.16.mp4._SvuyOVf0.mp4_US to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
+      "name": "75TH SALE-YVR-FJ (ONLINE) 9.16.mp4._7v6VarYP.mp4_CA to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
@@ -2982,7 +2973,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-YVR-FJ (ONLINE) 9.16.mp4._7v6VarYP.mp4_CA to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
+      "name": "75TH SALE-NZ-FJ (ONLINE) 9.16.mp4._8mF0lGvH.mp4_NZ to FJ | Anniversary Sale Sep 2026 V2 | Vid | 04/09/26 - 08/09/26",
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
@@ -2991,25 +2982,25 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
       "name": "Tataki Tourism 2 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _DUN_GSTH_9x16_FINAL_4GFgKUil.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
       "endDate": "2026-03-31",
@@ -3027,12 +3018,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "name": "75TH SALE-USA-FJ (ONLINE) 9.16.mp4._SvuyOVf0.mp4_US to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -3045,12 +3036,30 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -3063,7 +3072,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3073,15 +3082,6 @@
     {
       "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3189,6 +3189,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | Flight Deals March 2026 | Cairns | 10/04/26 - 17/04/26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-17",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-04-17 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to FJ | Non Sale | July 2025 | SIA | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3249,6 +3258,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "BAU Ads 2024",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
@@ -3324,6 +3342,24 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 10/90",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 25/75",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "Capital - Explore Australia | 2026",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3342,7 +3378,7 @@
     },
     {
       "platform": "Pinterest",
-      "name": "Conversions | ?????????",
+      "name": "Conversions | Fiji Airways on Sale 30 Oct - 22 Nov | 1",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3459,15 +3495,6 @@
     },
     {
       "platform": "Pinterest",
-      "name": "July 2024 Sale Japanese",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
-    },
-    {
-      "platform": "Pinterest",
       "name": "Mini Balloons - Explore Australia | 2026",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3559,15 +3586,6 @@
     {
       "platform": "Pinterest",
       "name": "NZ to US | Non Sale | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "Sep 2024 Sale | Ends on 13/10/24",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3679,6 +3697,24 @@
       "type": "DATED SALE",
       "startDate": "2026-09-04",
       "endDate": "2026-09-08",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 10/90",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 25/75",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
       "action": "KEEP ACTIVE",
       "note": ""
     }
