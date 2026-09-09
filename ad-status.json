@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T19:23:45.783Z",
+  "generatedAt": "2026-09-09T20:23:57.080Z",
   "ads": [
     {
       "platform": "Meta",
@@ -148,6 +148,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | Netflix Video | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -525,6 +534,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | VFR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -661,6 +679,24 @@
     {
       "platform": "Meta",
       "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Carousel | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Flexible | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | SIA | Non Sale | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2325,6 +2361,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | Diving",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always on w/ AA | Couples",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2892,6 +2937,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | West | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | West | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -3073,6 +3127,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
