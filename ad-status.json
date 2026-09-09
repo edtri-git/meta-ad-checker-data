@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:23:49.958Z",
+  "generatedAt": "2026-09-09T19:23:45.783Z",
   "ads": [
     {
       "platform": "Meta",
@@ -273,6 +273,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Non Sale | Always On - Copy",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -472,6 +481,15 @@
     {
       "platform": "Meta",
       "name": "Australia | VFR | Static Ads | Fiji | Flexible | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Business Class | Static Ads | Fiji | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1857,6 +1875,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Fiji | Audience Segment | VFR | Carousel | Non Sale | Always On ? Copy",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Sales | Static Ads | Samoa | Audience Segment | VFR Samoa | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2808,6 +2835,15 @@
       "endDate": "2026-09-08",
       "action": "PAUSE",
       "note": "Sale window ended 2026-09-08 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | Carousel | Non Sale | Always On | West",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
