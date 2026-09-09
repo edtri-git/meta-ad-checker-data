@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:23:45.977Z",
+  "generatedAt": "2026-09-09T01:23:51.667Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2299,6 +2299,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Carousel | Non Sale | Always On | FR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
