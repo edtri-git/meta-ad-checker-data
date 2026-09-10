@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:24:07.086Z",
+  "generatedAt": "2026-09-10T15:23:59.384Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3456,6 +3456,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "BAU Holiday Ads 2024",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
