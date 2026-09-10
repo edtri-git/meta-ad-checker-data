@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:23:46.063Z",
+  "generatedAt": "2026-09-10T05:23:56.872Z",
   "ads": [
     {
       "platform": "Meta",
@@ -543,6 +543,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -570,6 +579,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -583,6 +601,33 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | splash | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | villa | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -876,6 +921,42 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | Carousel | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | Flexible | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | villa | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | 2 bikes",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1029,6 +1110,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | Flexible | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | Flexible | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1042,6 +1132,33 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | splash | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | villa | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
       "action": "KEEP ACTIVE",
       "note": ""
     },
