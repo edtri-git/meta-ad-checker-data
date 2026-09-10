@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:23:43.712Z",
+  "generatedAt": "2026-09-10T12:23:47.717Z",
   "ads": [
     {
       "platform": "Meta",
@@ -777,6 +777,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 30 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1381,6 +1390,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2272,6 +2290,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -3216,21 +3243,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "75TH SALE-YVR-FJ (ONLINE) 9.16.mp4._7v6VarYP.mp4_CA to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-08",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-08 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
       "endDate": "2026-03-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
+      "name": "75TH SALE-YVR-FJ (ONLINE) 9.16.mp4._7v6VarYP.mp4_CA to FJ | Anniversary Sale Sep 2026 V2 | 30 sec | 04/09/26 - 08/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-08",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-08 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
