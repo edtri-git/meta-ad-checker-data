@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:23:45.803Z",
+  "generatedAt": "2026-09-10T01:23:43.633Z",
   "ads": [
     {
       "platform": "Meta",
@@ -498,6 +498,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | VFR | Static Ads | Fiji | Carousel | Always On | Pacific",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | VFR | Static Ads | Fiji | Flexible | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -808,6 +817,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
