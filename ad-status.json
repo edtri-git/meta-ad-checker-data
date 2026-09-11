@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:23:47.718Z",
+  "generatedAt": "2026-09-11T14:23:45.149Z",
   "ads": [
     {
       "platform": "Meta",
@@ -265,6 +265,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | Netflix Video | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1434,6 +1443,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1875,6 +1893,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | United States | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2146,6 +2173,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2848,6 +2884,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
