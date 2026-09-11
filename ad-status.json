@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:23:45.131Z",
+  "generatedAt": "2026-09-11T19:23:47.778Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1057,6 +1057,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
