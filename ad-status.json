@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:23:45.149Z",
+  "generatedAt": "2026-09-11T15:23:45.931Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2947,6 +2947,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Fiji | Audience Segment | High Networth | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Fiji | Audience Segment | SFO Audience | All SFO | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
