@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:23:44.065Z",
+  "generatedAt": "2026-09-12T11:23:44.950Z",
   "ads": [
     {
       "platform": "Meta",
@@ -463,6 +463,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | Diving",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1282,6 +1291,15 @@
     {
       "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Whole Fiji",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2154,6 +2172,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2326,6 +2353,15 @@
     {
       "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Last Minute Travelers",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | West | 2 Bikes",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2910,6 +2946,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Fiji | Audience Segment | SFO Audience | All SFO | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Sales | Static Ads | Fiji | Audience Segment | SFO Audience | All SFO | SIA | Non Sale | Always On | couple",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -3144,6 +3189,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
@@ -3159,15 +3213,6 @@
       "endDate": "2026-03-31",
       "action": "PAUSE",
       "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "TikTok",
@@ -3207,12 +3252,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -3225,12 +3270,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
