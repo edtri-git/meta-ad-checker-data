@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T06:23:44.613Z",
+  "generatedAt": "2026-09-13T07:23:43.909Z",
   "ads": [
     {
       "platform": "Meta",
@@ -768,6 +768,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Australia | Flexible | TEQ Cairns | non sale | always on | start=28-08-26 | end=28-10-26",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": "2026-08-28",
+      "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Australia | SIA | TEQ Cairns | non sale | always on | start=28-08-26 | end=28-10-26 | Great Barrier Reef",
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
@@ -832,6 +841,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1462,6 +1480,15 @@
     {
       "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | Link | Carousel | Non Sale | Always on | Whole Fiji",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -3802,6 +3829,15 @@
     {
       "platform": "Pinterest",
       "name": "Capital Picture - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Conversions | ?????????",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
