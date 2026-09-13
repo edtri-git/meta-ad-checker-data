@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T02:23:44.248Z",
+  "generatedAt": "2026-09-13T03:23:46.821Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1048,6 +1048,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | Flexible | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | Netflix Video | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
