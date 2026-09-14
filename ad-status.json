@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:23:44.962Z",
+  "generatedAt": "2026-09-14T06:23:53.634Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1525,6 +1525,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
