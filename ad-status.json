@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:23:45.549Z",
+  "generatedAt": "2026-09-15T16:23:44.057Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1929,10 +1929,28 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=16-09-26 | end=06-10-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-16",
+      "endDate": "2026-10-06",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=16-09-26 | end=06-10-26 | fr",
       "type": "DATED SALE",
       "startDate": "2026-09-16",
       "endDate": "2026-10-06",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
