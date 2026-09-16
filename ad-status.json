@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:23:44.498Z",
+  "generatedAt": "2026-09-16T13:23:55.260Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1101,6 +1101,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1479,6 +1488,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1512,6 +1530,42 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | paddle",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -1737,6 +1791,51 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | Carousel | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | Flexible | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | one way",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | paddle",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026| Start=17-09-26 | End=21-09-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -3618,6 +3717,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Flash Sale Sep 2026 | SIA | 17/09/26 - 21/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-21",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-17 but ad already has impressions"
     },
     {
       "platform": "Pinterest",
