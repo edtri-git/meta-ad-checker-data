@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:23:44.813Z",
+  "generatedAt": "2026-09-16T05:23:51.154Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1408,6 +1408,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
