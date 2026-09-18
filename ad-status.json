@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:23:44.624Z",
+  "generatedAt": "2026-09-18T21:23:45.359Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1390,6 +1390,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
