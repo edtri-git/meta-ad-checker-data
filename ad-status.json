@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:23:45.631Z",
+  "generatedAt": "2026-09-18T06:23:45.291Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1462,6 +1462,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-30",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | villa | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-18",
       "endDate": "2026-09-30",
