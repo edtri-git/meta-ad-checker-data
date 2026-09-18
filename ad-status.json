@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:23:44.767Z",
+  "generatedAt": "2026-09-18T19:23:49.482Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2101,6 +2101,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
