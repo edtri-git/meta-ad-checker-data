@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:23:54.755Z",
+  "generatedAt": "2026-09-20T16:23:44.470Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1335,6 +1335,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-30",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-09-18",
@@ -1948,6 +1957,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Samoa | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Samoa | Remarketing | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
