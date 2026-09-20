@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:23:49.312Z",
+  "generatedAt": "2026-09-20T02:23:53.235Z",
   "ads": [
     {
       "platform": "Meta",
@@ -174,6 +174,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | Video | West Sydney Launch Sale Sep 2026 | Start=09-09-26 | End=23-09-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -336,6 +345,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | United States | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Short Lead Traveller | Static Ads | Destination | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -466,6 +484,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -759,6 +786,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | Carousel | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-22",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=22-09-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -778,6 +814,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | 2 bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -814,6 +859,24 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 10/90",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 15/85",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |SIA | start=01-09-26 | end=10-10-26 | 25/75",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-10",
@@ -958,6 +1021,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1129,6 +1201,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |Video | start=01-09-26 | end=10-10-26 | 3",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 |Video | start=01-09-26 | end=10-10-26 | 4",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-10",
@@ -1893,6 +1974,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=16-09-26 | end=06-10-26 | fr",
+      "type": "DATED SALE",
+      "startDate": "2026-09-16",
+      "endDate": "2026-10-06",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Fiji | SIA | New Caledonia Sale Aug 2026 | start=16-09-26 | end=06-10-26 | fr",
       "type": "DATED SALE",
       "startDate": "2026-09-16",
@@ -1924,6 +2014,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-09-23",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Samoa | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2001,6 +2100,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Tonga | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Tonga | Remarketing | Static Ads | Australia | SIA | Western Sydney Launch Sale Sep 2026 | start=09-09-26 | end=23-09-26",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -2064,6 +2172,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2074,6 +2191,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
