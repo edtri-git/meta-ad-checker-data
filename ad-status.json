@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:23:45.426Z",
+  "generatedAt": "2026-09-20T21:23:44.144Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1894,6 +1894,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | United States | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
