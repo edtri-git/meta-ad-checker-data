@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:23:45.609Z",
+  "generatedAt": "2026-09-21T14:23:45.075Z",
   "ads": [
     {
       "platform": "Meta",
@@ -327,6 +327,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale |  Always On | rope swing",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 6 sense",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -589,6 +598,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Flights | Business Class | Audience Segment | Static Ads | Fiji | SIA | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Carousel | Non Sale | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -912,6 +930,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | island",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -952,6 +979,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1303,8 +1339,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1348,8 +1384,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1357,8 +1393,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1366,8 +1402,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1375,8 +1411,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1519,8 +1555,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1528,8 +1564,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1537,8 +1573,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1546,8 +1582,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1555,8 +1591,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1615,6 +1651,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | United States | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1803,6 +1848,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Prospecting | Static Ads | Australia | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Vanuatu | Prospecting | Static Ads | Australia | SIA | Western Sydney Launch Sale Sep 2026 | start=09-09-26 | end=23-09-26",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -1876,6 +1930,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2155,6 +2218,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025 | paused for burst",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -3220,8 +3292,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-21",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-21 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
