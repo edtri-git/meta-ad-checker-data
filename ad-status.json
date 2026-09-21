@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:23:44.896Z",
+  "generatedAt": "2026-09-21T18:23:55.662Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3334,6 +3334,15 @@
     {
       "platform": "Pinterest",
       "name": "Drinking Wine - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "HOU to FJ | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
