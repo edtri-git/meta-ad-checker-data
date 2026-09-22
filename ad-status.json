@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:23:59.849Z",
+  "generatedAt": "2026-09-22T14:23:44.979Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2968,8 +2968,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-09-22",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-22 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
