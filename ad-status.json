@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:23:44.747Z",
+  "generatedAt": "2026-09-22T02:23:44.733Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1074,6 +1074,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1291,6 +1300,15 @@
     {
       "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | International | Carousel | Asia | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | Australia | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
