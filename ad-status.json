@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:23:44.478Z",
+  "generatedAt": "2026-09-23T19:23:45.408Z",
   "ads": [
     {
       "platform": "Meta",
@@ -688,6 +688,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1956,6 +1965,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Prospecting | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Vanuatu | Prospecting | Static Ads | New Zealand | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2014,6 +2032,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Flash Deals Sep 2026 | Start=22-09-26 | End=11-10-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-22",
+      "endDate": "2026-10-11",
       "action": "KEEP ACTIVE",
       "note": ""
     },
