@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:23:45.642Z",
+  "generatedAt": "2026-09-23T11:23:44.544Z",
   "ads": [
     {
       "platform": "Meta",
@@ -615,6 +615,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -787,6 +796,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26 | splash | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-10-04",
@@ -1110,6 +1128,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-30",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1147,6 +1174,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1668,6 +1704,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Tonga | Prospecting | Static Ads | Australia | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Tonga | Prospecting | Static Ads | Australia | SIA | Western Sydney Launch Sale Sep 2026 | start=09-09-26 | end=23-09-26",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -1735,6 +1780,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-09-23",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2649,21 +2703,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2721,21 +2775,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2802,19 +2856,19 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "WSI-FIJI-(ONLINE)-9.16-30sec_tUQ0Iwyx.mp4_AU to FJ | Western Sydney Launch Sale Sep 2026 | 30 sec | 09/09/26 - 23/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-23",
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "WSI-FIJI-(ONLINE)-9.16-30sec_tUQ0Iwyx.mp4_AU to FJ | Western Sydney Launch Sale Sep 2026 | 30 sec | 09/09/26 - 23/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-23",
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
