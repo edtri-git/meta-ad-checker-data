@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:23:46.464Z",
+  "generatedAt": "2026-09-24T06:23:44.414Z",
   "ads": [
     {
       "platform": "Meta",
@@ -880,6 +880,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Australia | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1804,6 +1813,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | Video | Netflix Video | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
