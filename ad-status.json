@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:23:47.669Z",
+  "generatedAt": "2026-09-24T04:23:43.330Z",
   "ads": [
     {
       "platform": "Meta",
@@ -552,6 +552,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | VFR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1056,6 +1065,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1533,6 +1551,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Canada | SIA | Ski Ji Sale Sep 2026 | Start=24-09-26 | End=28-09-26 | return",
+      "type": "DATED SALE",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-28",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-24 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1668,6 +1695,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Japan | SIA | Ski Ji Sale Sep 2026 | Start=24-09-26 | End=28-09-26 | return",
+      "type": "DATED SALE",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Singapore | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1683,6 +1719,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | United States | SIA | Ski Ji Sale Sep 2026 | Start=24-09-26 | End=28-09-26 | return",
+      "type": "DATED SALE",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-28",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-09-24 but ad already has impressions"
     },
     {
       "platform": "Meta",
