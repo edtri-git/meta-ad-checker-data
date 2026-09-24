@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:23:48.342Z",
+  "generatedAt": "2026-09-24T02:23:49.579Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1390,6 +1390,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
