@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:23:44.426Z",
+  "generatedAt": "2026-09-26T13:23:45.158Z",
   "ads": [
     {
       "platform": "Meta",
@@ -489,6 +489,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | VFR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -615,6 +624,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Carousel | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Flights | Short Lead Travellers | Audience Segment | Static Ads | Fiji | Destination | Carousel | Non Sale | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -688,6 +706,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | Flexible | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-10-04",
@@ -1114,6 +1141,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-30",
       "action": "KEEP ACTIVE",
       "note": ""
     },
