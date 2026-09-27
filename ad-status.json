@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:23:47.825Z",
+  "generatedAt": "2026-09-27T19:23:46.331Z",
   "ads": [
     {
       "platform": "Meta",
@@ -727,6 +727,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -3366,6 +3375,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Global Sale May 2024",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
