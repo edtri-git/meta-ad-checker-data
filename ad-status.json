@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T05:23:44.617Z",
+  "generatedAt": "2026-09-28T06:23:51.604Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1660,6 +1660,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
