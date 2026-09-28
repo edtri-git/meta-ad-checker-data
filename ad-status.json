@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:23:44.842Z",
+  "generatedAt": "2026-09-28T14:23:45.794Z",
   "ads": [
     {
       "platform": "Meta",
@@ -777,6 +777,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Flash Sale Sep 2026 | Start=09-09-26 | End=04-10-26 | villa | rt",
       "type": "DATED SALE",
       "startDate": "2026-09-09",
@@ -1168,8 +1177,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-17",
       "endDate": "2026-09-28",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-28 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1591,8 +1600,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-24",
       "endDate": "2026-09-28",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-28 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -3328,8 +3337,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-24",
       "endDate": "2026-09-28",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-28 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
@@ -3382,8 +3391,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-24",
       "endDate": "2026-09-28",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-28 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
@@ -3409,8 +3418,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-24",
       "endDate": "2026-09-28",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-28 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
