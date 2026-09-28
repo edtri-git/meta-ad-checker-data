@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:24:56.373Z",
+  "generatedAt": "2026-09-28T13:23:44.842Z",
   "ads": [
     {
       "platform": "Meta",
@@ -975,6 +975,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1255,6 +1264,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-30",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flight Deals Sep 2026 | Start=18-09-26 | End=30-09-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-09-18",
       "endDate": "2026-09-30",
@@ -2533,6 +2551,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
