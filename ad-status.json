@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:23:44.233Z",
+  "generatedAt": "2026-09-28T01:23:44.705Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2425,6 +2425,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Deals Sep 2026 | Start=22-09-26 | End=11-10-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-09-22",
+      "endDate": "2026-10-11",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Deals Sep 2026 | Start=22-09-26 | End=11-10-26 | villa",
       "type": "DATED SALE",
       "startDate": "2026-09-22",
       "endDate": "2026-10-11",
