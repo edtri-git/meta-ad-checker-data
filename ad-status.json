@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:23:46.609Z",
+  "generatedAt": "2026-09-29T05:23:45.789Z",
   "ads": [
     {
       "platform": "Meta",
@@ -949,6 +949,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
