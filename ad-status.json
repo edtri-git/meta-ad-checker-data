@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:23:46.326Z",
+  "generatedAt": "2026-09-30T22:23:46.107Z",
   "ads": [
     {
       "platform": "Meta",
@@ -778,6 +778,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2011,6 +2020,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Sales | Static Ads | Audience Segment | VFR | Flexible | Non Sale | Always On ? Copy",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Sales | Static Ads | Fiji | Audience Segment | VFR | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
