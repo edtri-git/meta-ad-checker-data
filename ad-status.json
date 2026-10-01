@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:23:44.822Z",
+  "generatedAt": "2026-10-01T12:23:45.439Z",
   "ads": [
     {
       "platform": "Meta",
@@ -169,6 +169,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-25",
       "endDate": "2026-10-05",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | Netflix Video | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -561,6 +570,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -634,6 +652,24 @@
     {
       "platform": "Meta",
       "name": "Canada | Flights | Business Class | Audience Segment | Static Ads | Fiji | SIA | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Carousel | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Flexible | Non Sale | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1024,6 +1060,24 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | SIA | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1785,6 +1839,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2028,6 +2091,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Flash Deals Sep 2026 | Start=22-09-26 | End=11-10-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-09-22",
+      "endDate": "2026-10-11",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2086,6 +2158,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-22",
       "endDate": "2026-10-11",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2284,6 +2365,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2640,6 +2730,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 30 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2766,6 +2865,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "FLASH SALE-NZ to FJ_Online_(9.16)_hU6NqQ57.mp4_NZ to FJ | Flash Sale | Vid | 25/09/26 - 29/09/26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-29",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-09-29 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
       "name": "Tataki Tourism 3 | 15 sec | 23/03/26 - 31/03/26_TNZ_Ta?taki Boost _AKL_NTLD_9x16_FINAL_BodThZGL.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
@@ -2781,15 +2889,6 @@
       "endDate": "2026-10-28",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "FLASH SALE-NZ to FJ_Online_(9.16)_hU6NqQ57.mp4_NZ to FJ | Flash Sale | Vid | 25/09/26 - 29/09/26",
-      "type": "DATED SALE",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-29",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-09-29 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2820,21 +2919,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
-      "type": "DATED SALE",
-      "startDate": "2026-03-23",
-      "endDate": "2026-03-31",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "Tataki Tourism 1 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_HB_WAI_9x16_FIJI_FINAL_maHCLVTP.mp4",
+      "type": "DATED SALE",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
@@ -2892,7 +2991,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2901,7 +3000,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2956,6 +3055,15 @@
     {
       "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
