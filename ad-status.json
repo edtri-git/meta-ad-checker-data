@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:23:48.474Z",
+  "generatedAt": "2026-10-01T03:23:45.679Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2437,6 +2437,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Flash Deals Sep 2026 | Start=22-09-26 | End=11-10-26",
+      "type": "DATED SALE",
+      "startDate": "2026-09-22",
+      "endDate": "2026-10-11",
       "action": "KEEP ACTIVE",
       "note": ""
     },
