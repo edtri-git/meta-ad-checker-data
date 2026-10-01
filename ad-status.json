@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T17:23:48.661Z",
+  "generatedAt": "2026-10-01T18:23:46.584Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3568,6 +3568,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to US | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Sep 2024 Sale | Ends on 13/10/24",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
