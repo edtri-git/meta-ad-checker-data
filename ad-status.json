@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:23:45.867Z",
+  "generatedAt": "2026-10-03T07:23:44.956Z",
   "ads": [
     {
       "platform": "Meta",
@@ -922,6 +922,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
