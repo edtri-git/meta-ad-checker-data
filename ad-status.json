@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:23:44.295Z",
+  "generatedAt": "2026-10-04T21:23:44.570Z",
   "ads": [
     {
       "platform": "Meta",
@@ -742,6 +742,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Flights | Business Class | Audience Segment | Static Ads | Fiji | SIA | Non Sale | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Flights | High Networth | Audience Segment | Static Ads | Fiji | Carousel | Non Sale | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
