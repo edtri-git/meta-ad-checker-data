@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T20:23:44.513Z",
+  "generatedAt": "2026-10-05T21:23:44.219Z",
   "ads": [
     {
       "platform": "Meta",
@@ -598,6 +598,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | Diving",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1633,6 +1642,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
