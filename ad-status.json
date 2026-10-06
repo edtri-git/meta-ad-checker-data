@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:23:45.514Z",
+  "generatedAt": "2026-10-06T13:23:48.663Z",
   "ads": [
     {
       "platform": "Meta",
@@ -759,6 +759,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Canberra | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1366,8 +1375,8 @@
       "type": "DATED SALE",
       "startDate": "2026-06-16",
       "endDate": "2026-10-06",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-06 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1498,6 +1507,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2023,8 +2041,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-16",
       "endDate": "2026-10-06",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-06 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -2032,8 +2050,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-16",
       "endDate": "2026-10-06",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-06 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -3436,8 +3454,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-10-06",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-06 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
@@ -3760,8 +3778,8 @@
       "type": "DATED SALE",
       "startDate": "2026-09-25",
       "endDate": "2026-10-06",
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-06 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
