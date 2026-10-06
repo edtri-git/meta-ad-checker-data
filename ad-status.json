@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T04:23:44.835Z",
+  "generatedAt": "2026-10-06T05:23:44.991Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3793,6 +3793,15 @@
     {
       "platform": "Pinterest",
       "name": "AU to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Turtle",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
