@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:23:44.580Z",
+  "generatedAt": "2026-10-07T07:23:44.568Z",
   "ads": [
     {
       "platform": "Meta",
@@ -628,6 +628,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-09",
       "endDate": "2026-10-06",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Video | Non Sale | Always On | Diving",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1398,10 +1407,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Fiji | Prospecting | Static Ads | International | Carousel | All Markets | Fiji Day Sale Oct 2026 | Start=01-10-26 | End=09-10-26",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | All Markets | Fiji Day Sale Oct 2026 | Start=01-10-26 | End=13-10-26",
       "type": "DATED SALE",
       "startDate": "2026-10-01",
-      "endDate": "2026-10-09",
+      "endDate": "2026-10-13",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1416,10 +1425,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Fiji | Prospecting | Static Ads | International | SIA | All Markets | Fiji Day Sale Oct 2026 | Start=01-10-26 | End=09-10-26",
+      "name": "Fiji | Prospecting | Static Ads | International | SIA | All Markets | Fiji Day Sale Oct 2026 | Start=01-10-26 | End=13-10-26",
       "type": "DATED SALE",
       "startDate": "2026-10-01",
-      "endDate": "2026-10-09",
+      "endDate": "2026-10-13",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2298,6 +2307,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2362,6 +2380,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
