@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:23:43.953Z",
+  "generatedAt": "2026-10-09T22:23:44.126Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2155,6 +2155,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Vanuatu | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
