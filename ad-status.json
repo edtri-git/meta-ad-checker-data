@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:23:45.721Z",
+  "generatedAt": "2026-10-09T12:23:45.108Z",
   "ads": [
     {
       "platform": "Meta",
@@ -966,6 +966,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1317,6 +1335,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1458,6 +1485,42 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | paddle",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | splash",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -1674,6 +1737,42 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | paddle",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | splash",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-10-10 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -2694,6 +2793,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2803,6 +2911,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
