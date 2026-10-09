@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:23:44.403Z",
+  "generatedAt": "2026-10-09T15:23:44.925Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2146,6 +2146,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
