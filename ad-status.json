@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:23:45.108Z",
+  "generatedAt": "2026-10-09T13:23:45.815Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1492,8 +1492,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1501,8 +1501,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1510,8 +1510,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1519,8 +1519,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1744,8 +1744,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1753,8 +1753,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1762,8 +1762,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1771,8 +1771,8 @@
       "type": "DATED SALE",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
-      "action": "CHECK NAME",
-      "note": "Sale window starts 2026-10-10 but ad already has impressions"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -3243,15 +3243,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3261,7 +3252,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3279,7 +3270,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3294,6 +3285,15 @@
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
