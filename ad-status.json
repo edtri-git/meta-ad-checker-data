@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:23:44.696Z",
+  "generatedAt": "2026-10-10T18:23:44.069Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1506,6 +1506,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | Couples",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1759,6 +1768,15 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | Video | Netflix Video | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
