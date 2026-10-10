@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:23:49.063Z",
+  "generatedAt": "2026-10-10T00:23:55.806Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1353,6 +1353,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2239,6 +2248,15 @@
       "type": "DATED SALE",
       "startDate": "2026-09-22",
       "endDate": "2026-10-11",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
