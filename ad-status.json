@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:23:47.884Z",
+  "generatedAt": "2026-10-10T20:23:44.210Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1533,6 +1533,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | VFR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | 24 Hr Flash Sale Oct 2026 | Start=10-10-26 | End=10-10-26 | dance",
       "type": "DATED SALE",
       "startDate": "2026-10-10",
@@ -1597,6 +1606,24 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | VFR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On | Diving",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1755,6 +1782,15 @@
       "endDate": "2026-10-10",
       "action": "PAUSE",
       "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
