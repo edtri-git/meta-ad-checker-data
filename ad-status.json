@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T03:23:43.792Z",
+  "generatedAt": "2026-10-11T04:23:44.038Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1575,6 +1575,24 @@
       "endDate": "2026-10-10",
       "action": "PAUSE",
       "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Sand",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
