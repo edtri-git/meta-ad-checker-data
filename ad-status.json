@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:23:43.797Z",
+  "generatedAt": "2026-10-11T14:23:47.193Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1290,6 +1290,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1300,6 +1309,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
