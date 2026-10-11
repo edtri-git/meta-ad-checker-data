@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:23:45.283Z",
+  "generatedAt": "2026-10-11T11:23:45.023Z",
   "ads": [
     {
       "platform": "Meta",
@@ -795,6 +795,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 30 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | SIA | Non Sale | Always On | 2 bikes",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1336,6 +1345,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1965,6 +1983,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2227,6 +2254,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2614,6 +2650,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | SIA | Start=01-09-26 | End=18-10-26 | 80/20",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-18",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | Tataki Tourism Sep - Oct 2026 | Video | Start=01-09-26 | End=18-10-26 | 2",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
       "endDate": "2026-10-18",
@@ -3189,15 +3234,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3207,16 +3243,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3243,7 +3270,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3258,6 +3294,15 @@
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
