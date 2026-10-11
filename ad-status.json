@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T20:23:52.473Z",
+  "generatedAt": "2026-10-11T21:23:43.878Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2290,6 +2290,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
