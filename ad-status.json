@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:23:48.061Z",
+  "generatedAt": "2026-10-12T13:23:44.831Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1101,6 +1101,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | Canberra | Video | Non Sale | Always On | 2027 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1372,6 +1381,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -3207,15 +3225,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "Tataki Tourism 4 | 15 sec | 23/03/26 - 31/03/26_TNZ_CNZWT_100_WEL_MARL_9x16_FIJI_FINAL_TpjluvZG.mp4",
       "type": "DATED SALE",
       "startDate": "2026-03-23",
@@ -3225,7 +3234,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3243,7 +3252,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3261,6 +3270,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3270,7 +3288,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3279,7 +3297,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3315,7 +3333,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
+      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3333,7 +3351,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3343,15 +3370,6 @@
     {
       "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
-      "type": "MALFORMED NAME",
-      "startDate": null,
-      "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
