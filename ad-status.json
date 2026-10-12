@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:23:44.831Z",
+  "generatedAt": "2026-10-12T14:23:45.535Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2145,6 +2145,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2560,6 +2569,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
