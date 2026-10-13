@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T03:23:44.046Z",
+  "generatedAt": "2026-10-13T04:23:43.771Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3576,21 +3576,21 @@
     },
     {
       "platform": "Pinterest",
-      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 10/90",
+      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 18/10/26 | 10/90",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
-      "endDate": "2026-10-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+      "endDate": "2026-10-18",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
-      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 25/75",
+      "name": "CA to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 18/10/26 | 25/75",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
-      "endDate": "2026-10-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+      "endDate": "2026-10-18",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -3882,21 +3882,21 @@
     },
     {
       "platform": "Pinterest",
-      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 10/90",
+      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 18/10/26 | 10/90",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
-      "endDate": "2026-10-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+      "endDate": "2026-10-18",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
-      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 10/10/26 | 25/75",
+      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 18/10/26 | 25/75",
       "type": "DATED SALE",
       "startDate": "2026-09-01",
-      "endDate": "2026-10-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-10-10 but ad still has recent impressions"
+      "endDate": "2026-10-18",
+      "action": "KEEP ACTIVE",
+      "note": ""
     }
   ]
 }
