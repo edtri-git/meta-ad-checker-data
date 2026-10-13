@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:23:46.441Z",
+  "generatedAt": "2026-10-13T02:24:01.794Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2217,6 +2217,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -3595,6 +3604,15 @@
     {
       "platform": "Pinterest",
       "name": "Capital Picture - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Conversions | ?????????",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
