@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:23:46.413Z",
+  "generatedAt": "2026-10-14T09:23:45.772Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2523,6 +2523,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to FJ | Non Sale | July 2025 | SIA | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2586,6 +2595,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to AU | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "CA to AU | TEQ Cairns Aug - Oct 2026 | SIA | 28/08/26 - 28/10/26",
       "type": "DATED SALE",
       "startDate": "2026-08-28",
@@ -2599,6 +2617,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2635,6 +2662,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2838,6 +2874,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "US to AU | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "US to AU | TEQ Cairns Aug - Oct 2026 | SIA | 28/08/26 - 28/10/26",
       "type": "DATED SALE",
       "startDate": "2026-08-28",
@@ -2892,6 +2937,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "US to FJ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "US to FJ | Non Sale | July 2025 | SIA | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2923,6 +2977,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 03/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
