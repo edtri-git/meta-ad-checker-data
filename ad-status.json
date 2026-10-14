@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:23:45.966Z",
+  "generatedAt": "2026-10-14T02:23:45.350Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1434,6 +1434,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | All Markets | Diwali Sale Oct 2026 | Start=14-10-26 | End=03-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | International | Carousel | All Markets | Fiji Day Sale Oct 2026 | Start=01-10-26 | End=13-10-26",
       "type": "DATED SALE",
       "startDate": "2026-10-01",
@@ -1465,6 +1474,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | SIA | All Markets | Diwali Sale Oct 2026 | Start=14-10-26 | End=03-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
