@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:23:45.760Z",
+  "generatedAt": "2026-10-15T01:23:50.120Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1150,6 +1150,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
