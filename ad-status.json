@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:23:44.788Z",
+  "generatedAt": "2026-10-15T23:24:05.722Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2149,6 +2149,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
