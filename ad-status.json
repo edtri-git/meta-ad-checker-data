@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:23:46.946Z",
+  "generatedAt": "2026-10-16T14:23:46.878Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1903,6 +1903,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
