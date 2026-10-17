@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:23:44.087Z",
+  "generatedAt": "2026-10-17T13:23:50.202Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1218,10 +1218,28 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Australia | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1947,6 +1965,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Carousel | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025 | paused for burst",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2586,19 +2613,19 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
+      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
