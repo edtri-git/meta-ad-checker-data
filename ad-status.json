@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:24:11.647Z",
+  "generatedAt": "2026-10-17T21:23:45.742Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1231,6 +1231,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
