@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:23:44.063Z",
+  "generatedAt": "2026-10-18T07:23:53.095Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3171,7 +3171,25 @@
     },
     {
       "platform": "Pinterest",
+      "name": "DFW to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "DFW to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3186,6 +3204,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Global Sale May 2024",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
@@ -3253,6 +3280,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
