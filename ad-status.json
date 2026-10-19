@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:23:44.002Z",
+  "generatedAt": "2026-10-19T00:24:06.286Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2154,6 +2154,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Events",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -3280,6 +3289,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
