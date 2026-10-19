@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:24:35.048Z",
+  "generatedAt": "2026-10-19T02:24:44.469Z",
   "ads": [
     {
       "platform": "Meta",
@@ -78,6 +78,24 @@
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=03-11-26 | flight attendant",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | group",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
       "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
@@ -210,6 +228,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | group",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | child",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -312,6 +348,24 @@
       "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=03-11-26 | group",
+      "type": "DATED SALE",
+      "startDate": "2026-10-19",
       "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
@@ -1213,6 +1267,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
