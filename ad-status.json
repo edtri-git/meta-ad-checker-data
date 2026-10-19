@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:23:48.325Z",
+  "generatedAt": "2026-10-19T18:23:45.337Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1686,6 +1686,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2487,6 +2496,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to FJ | Consideration | Non Sale | Video | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2568,6 +2586,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to Samoa | Global Sale Q1 Jan 2026 | SIA | 08/01/26 - 30/01/26",
+      "type": "DATED SALE",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-30",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-01-30 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to US | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2583,6 +2610,15 @@
       "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to US | Gold Coast | Global Sale Q1 Jan 2026 | SIA | 08/01/26 - 30/01/26",
+      "type": "DATED SALE",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-30",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-01-30 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
