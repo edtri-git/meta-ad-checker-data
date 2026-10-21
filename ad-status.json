@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:23:48.014Z",
+  "generatedAt": "2026-10-21T17:23:51.406Z",
   "ads": [
     {
       "platform": "Meta",
@@ -580,6 +580,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Australia | SIA | TEQ Cairns | non sale | always on | start=28-08-26 | end=28-10-26 | Great Barrier Reef",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": "2026-08-28",
+      "endDate": "2026-10-28",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Australia | SIA | TEQ Cairns | non sale | always on | start=28-08-26 | end=28-10-26 | big turtle",
       "type": "ALWAYS ON / NON SALE",
       "startDate": "2026-08-28",
       "endDate": "2026-10-28",
