@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:23:45.013Z",
+  "generatedAt": "2026-10-22T22:23:44.454Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1920,7 +1920,25 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2025 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2083,6 +2101,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
