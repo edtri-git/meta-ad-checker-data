@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:23:44.312Z",
+  "generatedAt": "2026-10-23T19:23:48.009Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1921,6 +1921,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | SIA | Non Sale | Always On | 2026 | paused for burst",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
