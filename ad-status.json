@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:24:04.833Z",
+  "generatedAt": "2026-10-25T11:23:43.597Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1047,6 +1047,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1776,6 +1794,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1975,6 +2002,15 @@
     {
       "platform": "Meta",
       "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Influencer 15 secs",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Canberra | Video | Non Sale | Always On | 2026 | Nature",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2343,7 +2379,25 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
       "name": "FIJI AIRWAYS ON SALE-YVR to FIJI-(9.16) ONLINE video_wOqRkpoD.mp4_CA to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
@@ -2361,19 +2415,19 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
+      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2397,16 +2451,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2424,24 +2469,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
       "type": "MALFORMED NAME",
       "startDate": null,
@@ -2451,7 +2478,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2469,7 +2496,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2479,6 +2506,15 @@
     {
       "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
