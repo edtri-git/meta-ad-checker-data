@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:23:45.448Z",
+  "generatedAt": "2026-10-25T16:23:45.625Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2218,6 +2218,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
