@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T23:23:48.850Z",
+  "generatedAt": "2026-10-27T00:23:44.888Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1111,6 +1111,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
