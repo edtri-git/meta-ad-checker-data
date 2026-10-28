@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:23:48.479Z",
+  "generatedAt": "2026-10-28T19:24:11.506Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2925,6 +2925,15 @@
       "endDate": "2026-10-28",
       "action": "PAUSE",
       "note": "Sale window ended 2026-10-28 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Consideration | Non Sale | SIA | Always on | Group",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
