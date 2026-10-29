@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:23:44.317Z",
+  "generatedAt": "2026-10-29T06:23:43.779Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1731,6 +1731,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | family",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2587,6 +2596,15 @@
     {
       "platform": "Pinterest",
       "name": "AU to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Consideration | Non Sale | SIA | Always on | Turtle",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
