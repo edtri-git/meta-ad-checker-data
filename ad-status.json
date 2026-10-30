@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:23:44.557Z",
+  "generatedAt": "2026-10-30T06:23:44.117Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1120,6 +1120,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2443,6 +2452,15 @@
     {
       "platform": "Pinterest",
       "name": "AU to CA | SIA | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
