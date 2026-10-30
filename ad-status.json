@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:23:48.224Z",
+  "generatedAt": "2026-10-30T09:23:49.916Z",
   "ads": [
     {
       "platform": "Meta",
@@ -678,6 +678,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -903,6 +912,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | family | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -931,6 +949,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
@@ -1290,6 +1317,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Remarketing | Static Ads | Singapore | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tonga | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=03-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1390,6 +1426,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Remarketing | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1561,6 +1606,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2037,6 +2091,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2055,10 +2118,10 @@
     },
     {
       "platform": "TikTok",
-      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
+      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2082,10 +2145,10 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "Thank You Campaign-AU to FIJI-(9.16)ONLINE video_oPZUSuNz.mp4_AU to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2109,15 +2172,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2127,7 +2181,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
+      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2136,10 +2190,10 @@
     },
     {
       "platform": "TikTok",
-      "name": "Thank You Campaign-AU to FIJI-(9.16)ONLINE video_oPZUSuNz.mp4_AU to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
+      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2154,7 +2208,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2163,7 +2217,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
