@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:23:44.560Z",
+  "generatedAt": "2026-10-30T11:23:46.039Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2479,6 +2479,15 @@
     {
       "platform": "Pinterest",
       "name": "Capital Picture - Explore Australia | 2026",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Conversions | ?????????",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
