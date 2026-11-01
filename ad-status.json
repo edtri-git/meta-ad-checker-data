@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:23:43.629Z",
+  "generatedAt": "2026-11-01T15:23:45.400Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1402,6 +1402,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads |  Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
