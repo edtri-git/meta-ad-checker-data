@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:23:44.141Z",
+  "generatedAt": "2026-11-01T22:23:43.921Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2460,6 +2460,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "Drinking Wine - Explore Australia | 2026",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2619,6 +2628,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Q2 2024 Global Sale ends 17/05/24",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "Pinterest",
