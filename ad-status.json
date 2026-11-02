@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:23:45.542Z",
+  "generatedAt": "2026-11-02T15:24:01.896Z",
   "ads": [
     {
       "platform": "Meta",
@@ -808,6 +808,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | Link | SIA | Diwali Sale Nov 2026 | Start=03-11-26 | End=05-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-05",
       "action": "KEEP ACTIVE",
       "note": ""
     },
