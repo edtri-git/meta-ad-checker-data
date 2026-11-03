@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:23:45.105Z",
+  "generatedAt": "2026-11-03T22:23:58.591Z",
   "ads": [
     {
       "platform": "Meta",
@@ -837,6 +837,15 @@
       "endDate": "2026-11-03",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
