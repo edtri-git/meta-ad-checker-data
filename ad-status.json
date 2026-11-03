@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:23:45.683Z",
+  "generatedAt": "2026-11-03T14:23:50.468Z",
   "ads": [
     {
       "platform": "Meta",
@@ -759,6 +759,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | Asia | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | Carousel | Australia | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Fiji | Prospecting | Static Ads | International | Carousel | Premier Service | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -774,6 +792,15 @@
       "endDate": "2026-11-03",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Fiji | Prospecting | Static Ads | International | SIA | New Zealand | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
