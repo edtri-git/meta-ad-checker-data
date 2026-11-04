@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:23:46.297Z",
+  "generatedAt": "2026-11-04T20:23:45.999Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1542,6 +1542,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2394,6 +2403,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to NZ | Flight Deals | SIA | 18/03/26 - 31/03/26",
+      "type": "DATED SALE",
+      "startDate": "2026-03-18",
+      "endDate": "2026-03-31",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-03-31 but ad still has recent impressions"
     },
     {
       "platform": "Pinterest",
