@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:23:43.888Z",
+  "generatedAt": "2026-11-04T01:23:44.751Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1551,12 +1551,12 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | Samoa | Prospecting | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=03-11-26",
+      "name": "Pacific Islands | Samoa | Prospecting | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+      "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
@@ -1587,12 +1587,12 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | Samoa | Remarketing | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=03-11-26",
+      "name": "Pacific Islands | Samoa | Remarketing | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+      "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
