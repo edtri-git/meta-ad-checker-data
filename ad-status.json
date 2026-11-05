@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:23:44.152Z",
+  "generatedAt": "2026-11-05T02:23:44.562Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1462,6 +1462,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
