@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:23:46.419Z",
+  "generatedAt": "2026-11-05T12:23:52.513Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2329,6 +2329,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
