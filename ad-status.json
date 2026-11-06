@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:23:44.300Z",
+  "generatedAt": "2026-11-06T01:23:45.033Z",
   "ads": [
     {
       "platform": "Meta",
@@ -967,6 +967,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
@@ -2011,6 +2020,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
