@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:23:45.360Z",
+  "generatedAt": "2026-11-06T03:23:44.772Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2479,6 +2479,15 @@
     {
       "platform": "Pinterest",
       "name": "DFW to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
