@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:23:59.234Z",
+  "generatedAt": "2026-11-07T01:23:44.327Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1633,6 +1633,24 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
