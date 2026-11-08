@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:23:44.732Z",
+  "generatedAt": "2026-11-08T18:23:46.558Z",
   "ads": [
     {
       "platform": "Meta",
@@ -202,6 +202,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Business Class | Static Ads | Fiji | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | High Networth | Static Ads | Fiji | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
