@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:23:48.091Z",
+  "generatedAt": "2026-11-09T03:23:43.676Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1029,6 +1029,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Australia | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2038,6 +2047,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
