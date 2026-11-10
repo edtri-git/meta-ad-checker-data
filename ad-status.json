@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:23:45.794Z",
+  "generatedAt": "2026-11-10T20:23:44.361Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1858,6 +1858,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
