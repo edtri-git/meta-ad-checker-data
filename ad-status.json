@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:23:46.871Z",
+  "generatedAt": "2026-11-11T11:23:43.532Z",
   "ads": [
     {
       "platform": "Meta",
@@ -702,6 +702,51 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | couple | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | friends hiking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | friends hiking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | group biking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -1434,6 +1479,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1992,21 +2046,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "FIJI AIRWAYS ON SALE-YVR to FIJI-(9.16) ONLINE video_wOqRkpoD.mp4_CA to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "FIJI AIRWAYS ON SALE-YVR to FIJI-(9.16) ONLINE video_wOqRkpoD.mp4_CA to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
     },
     {
       "platform": "TikTok",
