@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T07:23:44.048Z",
+  "generatedAt": "2026-11-11T08:23:45.392Z",
   "ads": [
     {
       "platform": "Meta",
@@ -151,6 +151,33 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 OOL | Start=11-11-26 | End=16-11-26 | couple paddling",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-16",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 OOL | Start=11-11-26 | End=16-11-26 | dance",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-16",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 OOL | Start=11-11-26 | End=16-11-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-16",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2199,6 +2226,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2223,6 +2259,15 @@
       "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -2271,6 +2316,24 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | couple splashing",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2284,6 +2347,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2334,6 +2406,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2361,6 +2442,24 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | couple splashing",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2374,6 +2473,24 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2415,6 +2532,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2439,6 +2565,24 @@
       "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | couple splashing",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | villa",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
     },
     {
       "platform": "Meta",
@@ -2991,6 +3135,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "JP to AU | Non Sale | SIA | Always On | JP",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3046,6 +3199,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to DFW | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
