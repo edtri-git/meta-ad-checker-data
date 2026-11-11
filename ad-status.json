@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:23:44.094Z",
+  "generatedAt": "2026-11-11T10:23:46.871Z",
   "ads": [
     {
       "platform": "Meta",
@@ -597,6 +597,33 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | friends hiking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | group biking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -625,6 +652,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-10",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-11-10",
@@ -817,6 +853,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1461,6 +1506,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1641,6 +1695,33 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | friends hiking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Reach | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | group biking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarkerting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1755,6 +1836,60 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | friends hiking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=04-12-26 | group biking",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=23-11-26 | couple | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-23",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=23-11-26 | friends hiking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-23",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=23-11-26 | group biking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-23",
+      "action": "CHECK NAME",
+      "note": "Sale window starts 2026-11-11 but ad already has impressions"
     },
     {
       "platform": "TikTok",
@@ -2190,6 +2325,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to FJ | Singles Day Sale Nov 2026 | SIA | 11/11/26 - 13/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "CA to NZ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 10/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2428,6 +2572,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to FJ | Singles Day Sale Nov 2026 | SIA | 11/11/26 - 13/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
     },
