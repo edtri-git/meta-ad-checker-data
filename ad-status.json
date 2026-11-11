@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:23:45.392Z",
+  "generatedAt": "2026-11-11T09:23:44.094Z",
   "ads": [
     {
       "platform": "Meta",
@@ -7,15 +7,6 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Canada | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -39,24 +30,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -72,78 +45,6 @@
       "endDate": "2026-11-16",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | dance",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | group",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -210,46 +111,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Samoa | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Tonga | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | United States | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -318,75 +183,12 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Canada | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=16-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-16",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | dance",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | group",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -417,15 +219,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | Video | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Hong Kong | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -453,15 +246,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Samoa | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Singapore | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -471,28 +255,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Tonga | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | United States | SIA | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -516,66 +282,12 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=16-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-16",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | dance",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Oct 2026 | Start=19-10-26 | End=10-11-26 | group",
-      "type": "DATED SALE",
-      "startDate": "2026-10-19",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -603,15 +315,6 @@
       "endDate": "2026-11-16",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | Video | Global Sale Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -930,15 +633,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -985,15 +679,6 @@
     {
       "platform": "Meta",
       "name": "Europe | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Europe | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1092,55 +777,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1182,82 +822,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-13",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | couple splashing | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-13",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26 | villa | rt",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1300,15 +868,6 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1362,48 +921,12 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1434,30 +957,12 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Hong Kong | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Japan | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1479,37 +984,10 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Samoa | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Singapore | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Tonga | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | United States | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1614,48 +1092,12 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | child",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | flight attendant",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1686,30 +1128,12 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Hong Kong | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Japan | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -1731,34 +1155,7 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Samoa | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Singapore | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Tonga | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1771,15 +1168,6 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | United States | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1875,15 +1263,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | Samoa | Prospecting | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Pacific Islands | Samoa | Prospecting | Static Ads | New Zealand | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1911,15 +1290,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | Samoa | Remarketing | Static Ads | Multimarket | Carousel | Global Sale Q4 Oct 2026 | start=14-10-26 | end=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1930,15 +1300,6 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | Australia | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2028,15 +1389,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | Vanuatu | Remarketing | Static Ads | Multimarket | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2047,15 +1399,6 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2118,52 +1461,7 @@
     },
     {
       "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | 2 Bikes",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Couple Beach",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Island",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2235,66 +1533,12 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
       "action": "CHECK NAME",
       "note": "Sale window starts 2026-11-11 but ad already has impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Meta",
@@ -2334,24 +1578,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2379,66 +1605,12 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | Flexible | Singles Day Sale Nov 2026 | Start=11-11-26 | End=13-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
       "action": "CHECK NAME",
       "note": "Sale window starts 2026-11-11 but ad already has impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Meta",
@@ -2460,25 +1632,16 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Reach | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Reach | Static Ads | New Zealand | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Reach | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarkerting | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2496,37 +1659,10 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Australia | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Cart Abandoner | Fiji | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2538,33 +1674,6 @@
       "endDate": "2026-11-13",
       "action": "CHECK NAME",
       "note": "Sale window starts 2026-11-11 but ad already has impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Meta",
@@ -2586,25 +1695,7 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | Video | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | New Zealand | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=10-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-10",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "name": "United States | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2613,7 +1704,7 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | Carousel | Non Sale | Always On | Urban Sugar",
+      "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2667,16 +1758,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-03",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2703,6 +1794,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "Thank You Campaign-NZ to FIJI-(9.16)ONLINE video_eVtrXP1h.mp4_NZ to FJ | Global Sale Q4 Oct 2026 | 30 Secs | 14/10/26 - 03/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-03",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-11-03 but ad still has recent impressions"
+    },
+    {
+      "platform": "TikTok",
       "name": "FIJI AIRWAYS ON SALE-USA to FIJI-(9.16) ONLINE video_ghrJo5t3.mp4_US to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2712,7 +1812,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2721,12 +1830,30 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -2748,34 +1875,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2793,15 +1893,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "Thank You Campaign-AU to FIJI-(9.16)ONLINE video_oPZUSuNz.mp4_AU to FJ | Global Sale Q4 Oct 2026 | 30 sec | 14/10/26 - 03/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -2811,7 +1902,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2820,7 +1911,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2982,6 +2073,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | Singles Day Sale Nov 2026 | SIA | 11/11/26 - 16/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-16",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to JP | SIA | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3045,15 +2145,6 @@
     },
     {
       "platform": "Pinterest",
-      "name": "CA to AU | TEQ Cairns Aug - Oct 2026 | SIA | 28/08/26 - 28/10/26",
-      "type": "DATED SALE",
-      "startDate": "2026-08-28",
-      "endDate": "2026-10-28",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-10-28 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
       "name": "CA to FJ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 10/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -3069,15 +2160,6 @@
       "endDate": "2026-11-10",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
-      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -3117,7 +2199,16 @@
     },
     {
       "platform": "Pinterest",
-      "name": "Conversions | ?????????",
+      "name": "CA to NZ | TNZ Tourism Nov - Dec 2026 | SIA | 11/11/26 - 04/12/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Conversions Ad | ??.?? ???????' ??? ???? ?? ???",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3127,15 +2218,6 @@
     {
       "platform": "Pinterest",
       "name": "DFW to FJ | Non Sale | July 2025 | Video | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3198,24 +2280,6 @@
     },
     {
       "platform": "Pinterest",
-      "name": "NZ to DFW | Non Sale | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "NZ to FJ | Awareness | Non Sale | Sep 2025 | SIA | Always On",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Pinterest",
       "name": "NZ to FJ | Global Sale Oct 2026 | SIA | 14/10/26 - 10/11/26",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -3247,6 +2311,24 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Singles Day Sale Nov 2026 | SIA | 11/11/26 - 13/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Singles Days Sale Nov 2026 | SIA | 11/11/26 - 13/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
     },
