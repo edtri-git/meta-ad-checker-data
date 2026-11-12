@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:23:43.627Z",
+  "generatedAt": "2026-11-12T23:23:54.664Z",
   "ads": [
     {
       "platform": "Meta",
@@ -805,6 +805,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2497,6 +2506,15 @@
     {
       "platform": "Pinterest",
       "name": "NZ to US | Non Sale | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Sep 2024 Sale | Ends on 13/10/24",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
