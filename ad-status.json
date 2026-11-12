@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:23:47.057Z",
+  "generatedAt": "2026-11-12T00:23:53.081Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2641,6 +2641,15 @@
     {
       "platform": "Pinterest",
       "name": "Conversions Ad | ??.?? ???????' ??? ???? ?? ???",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Conversions | ?????????",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
