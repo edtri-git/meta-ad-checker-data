@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:23:46.840Z",
+  "generatedAt": "2026-11-12T08:23:46.503Z",
   "ads": [
     {
       "platform": "Meta",
@@ -859,6 +859,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | group biking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |Video | start=11-11-26 | end=04-12-26 | tactical",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-12-04",
@@ -2155,6 +2164,15 @@
     {
       "platform": "Meta",
       "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | SIA | Start=11-11-26 | End=23-11-26 | group biking | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-23",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 | Video | Start=11-11-26 | End=23-11-26 | tactical",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-23",
