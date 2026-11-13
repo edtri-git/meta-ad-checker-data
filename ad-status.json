@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:23:43.865Z",
+  "generatedAt": "2026-11-13T03:23:44.129Z",
   "ads": [
     {
       "platform": "Meta",
@@ -121,6 +121,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | United States | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | BFCM Nov 2026 | Lead Gen | Static Ads | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1642,6 +1651,15 @@
     {
       "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On w/ AA",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | BFCM Nov 2026 | Lead Gen | Static Ads | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
