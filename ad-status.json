@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:23:44.129Z",
+  "generatedAt": "2026-11-13T04:23:43.843Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1791,6 +1791,15 @@
       "endDate": "2026-11-13",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | New Caledonia | SIA | NC Sale Jul 2026 | Start=22-07-26 | End=08-08-26",
+      "type": "DATED SALE",
+      "startDate": "2026-07-22",
+      "endDate": "2026-08-08",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-08-08 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
