@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:23:43.963Z",
+  "generatedAt": "2026-11-13T07:23:46.956Z",
   "ads": [
     {
       "platform": "Meta",
@@ -477,6 +477,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | BFCM Nov 2026 | Lead Gen | Static Ads",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
     },
     {
       "platform": "Meta",
@@ -2352,6 +2361,24 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q4 Oct 2026 | SIA | 14/10/26 - 10/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-10",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Global Sale Q4 Oct 2026 | Vid | 14/10/26 - 10/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-10",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
       "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2586,6 +2613,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "US to FJ | Global Sale Q4 Oct 2026 | Vid | 14/10/26 - 10/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-10",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-11-10 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
       "name": "US to FJ | Non Sale | July 2025 | Video | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2637,6 +2673,15 @@
       "endDate": "2026-11-23",
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to NZ | Tataki Tourism Sep - Oct 2026 | 01/09/26 - 18/10/26 | 10/90",
+      "type": "DATED SALE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-18",
+      "action": "PAUSE",
+      "note": "Sale window ended 2026-10-18 but ad still has recent impressions"
     }
   ]
 }
