@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:23:43.843Z",
+  "generatedAt": "2026-11-13T05:23:44.165Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1029,6 +1029,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | BFCM Nov 2026 | Lead Gen | Static Ads",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Bulamail | Lead Gen | Static Ads",
       "type": "NO TAG FOUND",
       "startDate": null,
@@ -1489,6 +1498,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
