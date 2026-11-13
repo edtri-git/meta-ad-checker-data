@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:23:54.664Z",
+  "generatedAt": "2026-11-13T00:23:44.163Z",
   "ads": [
     {
       "platform": "Meta",
@@ -835,6 +835,15 @@
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-11-13",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
