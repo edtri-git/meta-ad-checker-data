@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:23:43.964Z",
+  "generatedAt": "2026-11-14T13:23:45.221Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1065,6 +1065,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | Beach Couple",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | CH",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1713,6 +1722,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2262,6 +2280,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | West | Couple Sand",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | SIA | Non Sale | Always On | West | Intercon",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2640,7 +2667,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2649,7 +2676,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
