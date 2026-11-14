@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:23:43.567Z",
+  "generatedAt": "2026-11-14T20:23:43.335Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1975,6 +1975,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
