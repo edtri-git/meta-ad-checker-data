@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:23:50.084Z",
+  "generatedAt": "2026-11-15T11:23:43.159Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1614,6 +1614,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Samoa | Prospecting | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1696,6 +1705,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Remarketing | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1876,6 +1894,15 @@
     {
       "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2397,6 +2424,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Sales | Static Ads | Fiji | Audience Segment | SFO Audience | High Networth | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Sales | Static Ads | Fiji | Audience Segment | Short Lead Time | Images | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2532,7 +2568,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
+      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2541,7 +2577,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2622,7 +2658,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2631,7 +2667,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
