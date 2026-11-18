@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:23:53.070Z",
+  "generatedAt": "2026-11-18T15:23:47.905Z",
   "ads": [
     {
       "platform": "Meta",
@@ -912,6 +912,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1470,6 +1479,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Remarketing | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1764,6 +1782,15 @@
       "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Video | BFCM Nov 2026",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
     },
     {
       "platform": "Meta",
