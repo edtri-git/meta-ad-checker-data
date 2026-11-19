@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:23:44.795Z",
+  "generatedAt": "2026-11-19T16:23:45.209Z",
   "ads": [
     {
       "platform": "Meta",
@@ -895,6 +895,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
@@ -2680,6 +2689,15 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | Holiday | Black Friday 2024 Sale | Ends on 01/12/24",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
