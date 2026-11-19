@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:23:45.133Z",
+  "generatedAt": "2026-11-19T04:24:38.822Z",
   "ads": [
     {
       "platform": "Meta",
@@ -903,6 +903,24 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -934,6 +952,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -994,6 +1021,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
