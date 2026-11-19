@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:23:44.409Z",
+  "generatedAt": "2026-11-19T13:23:52.849Z",
   "ads": [
     {
       "platform": "Meta",
@@ -886,6 +886,15 @@
     {
       "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
@@ -2199,15 +2208,6 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2217,7 +2217,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
+      "name": "3_XqFvOZu5.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2227,6 +2227,15 @@
     {
       "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2262,6 +2271,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2272,15 +2290,6 @@
     {
       "platform": "TikTok",
       "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
