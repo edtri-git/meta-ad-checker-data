@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:24:22.228Z",
+  "generatedAt": "2026-11-19T21:24:21.939Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1092,6 +1092,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1525,6 +1534,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | United States | SIA | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | Solomon Islands | Remarketing | Static Ads |  Multimarket | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
