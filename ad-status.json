@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:23:45.107Z",
+  "generatedAt": "2026-11-19T12:23:44.409Z",
   "ads": [
     {
       "platform": "Meta",
@@ -831,6 +831,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1003,6 +1012,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | Carousel | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | dance | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-12-03",
@@ -2109,7 +2127,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_NZ to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2118,7 +2136,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_NZ to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2163,7 +2181,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2172,7 +2190,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2235,6 +2253,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2245,15 +2272,6 @@
     {
       "platform": "TikTok",
       "name": "US to FJ | Non Sale | 15 sec | Always on_2_1Q2IcvpW.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
