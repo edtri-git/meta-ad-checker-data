@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:23:43.736Z",
+  "generatedAt": "2026-11-20T12:23:47.484Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1011,6 +1011,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | dance | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | generic | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -1021,6 +1030,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | villa | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-12-03",
@@ -2154,7 +2172,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2163,7 +2181,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
