@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:24:02.249Z",
+  "generatedAt": "2026-11-20T11:23:43.736Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1632,6 +1632,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | culture",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-24",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -2100,7 +2109,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_CA to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_NZ to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2109,7 +2118,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_NZ to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_CA to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2136,21 +2145,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
       "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+    },
+    {
+      "platform": "TikTok",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -2190,6 +2199,15 @@
     },
     {
       "platform": "TikTok",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2217,25 +2235,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2253,6 +2253,24 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2262,7 +2280,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2281,15 +2299,6 @@
     {
       "platform": "TikTok",
       "name": "US to FJ | Non Sale | 30 sec | Always on_3_XqFvOZu5.mp4",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
