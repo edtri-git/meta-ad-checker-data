@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:23:48.360Z",
+  "generatedAt": "2026-11-21T06:23:44.306Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1030,6 +1030,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Video | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2704,6 +2713,15 @@
     {
       "platform": "Pinterest",
       "name": "DFW to FJ | Non Sale | July 2025 | Video | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "DFW to FJ | Performance + | Non Sale | July 2025 | SIA | Always On",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
