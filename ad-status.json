@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:23:47.566Z",
+  "generatedAt": "2026-11-21T16:23:43.636Z",
   "ads": [
     {
       "platform": "Meta",
@@ -625,6 +625,15 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-24",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | villa",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
