@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:23:45.460Z",
+  "generatedAt": "2026-11-22T20:23:44.830Z",
   "ads": [
     {
       "platform": "Meta",
@@ -646,6 +646,15 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
