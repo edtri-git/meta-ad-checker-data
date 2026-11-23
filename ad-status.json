@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:23:50.205Z",
+  "generatedAt": "2026-11-23T12:24:06.756Z",
   "ads": [
     {
       "platform": "Meta",
@@ -930,6 +930,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1066,6 +1075,15 @@
     {
       "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | villa | round trip | EN",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Japan | Remarketing | Static Ads | Fiji | flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-12-03",
@@ -1695,6 +1713,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | generic",
+      "type": "DATED SALE",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-24",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | villa",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -1947,6 +1974,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarkerting | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2190,7 +2226,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2199,7 +2235,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2235,7 +2271,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_AU to FJ | Non Sale | 30 sec | BFCM Nov 2026 | Always on",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2244,7 +2280,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_AU to FJ | Non Sale | 30 sec | BFCM Nov 2026 | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2280,6 +2316,24 @@
     },
     {
       "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
       "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2299,24 +2353,6 @@
     {
       "platform": "TikTok",
       "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
