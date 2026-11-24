@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:23:46.980Z",
+  "generatedAt": "2026-11-24T23:23:43.760Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2838,6 +2838,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to FJ | Consideration | Non Sale | Video | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -2995,6 +3004,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to US | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -3207,10 +3225,28 @@
     },
     {
       "platform": "Pinterest",
+      "name": "NZ to CA | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "NZ to CA | SIA | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to FJ | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -3243,6 +3279,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "NZ to JP | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "NZ to JP | SIA | Non Sale | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
@@ -3256,6 +3301,15 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "NZ to US | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
