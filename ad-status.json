@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:23:44.270Z",
+  "generatedAt": "2026-11-24T18:24:31.592Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1119,6 +1119,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1150,6 +1159,15 @@
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2001,6 +2019,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -2010,12 +2037,48 @@
     },
     {
       "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-24 but ad still has recent impressions"
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | culture",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Singapore | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | generic fa",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Meta",
