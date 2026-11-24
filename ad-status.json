@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:23:44.356Z",
+  "generatedAt": "2026-11-24T10:23:58.762Z",
   "ads": [
     {
       "platform": "Meta",
@@ -30,28 +30,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | Non Sale | Always On | Experience",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -88,15 +70,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Intercon",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -606,10 +579,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | Carousel | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
+      "name": "Canada | Remarketing | Static Ads | Cart Abandoner | Fiji | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -637,24 +610,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | villa",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -733,15 +688,6 @@
     {
       "platform": "Meta",
       "name": "Europe | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Europe | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -903,24 +849,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -930,28 +858,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1011,15 +921,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1030,15 +931,6 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Video | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1065,15 +957,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | dance | round trip | EN",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-12-03",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | generic | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -1084,15 +967,6 @@
     {
       "platform": "Meta",
       "name": "Japan | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | villa | round trip | EN",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-12-03",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Remarketing | Static Ads | Fiji | flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-12-03",
@@ -1174,15 +1048,6 @@
     {
       "platform": "Meta",
       "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Hong Kong | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Japan | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1371,15 +1236,6 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | 7th heaven",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1516,15 +1372,6 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | Australia | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1713,25 +1560,7 @@
     },
     {
       "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | Flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
@@ -1744,15 +1573,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1786,24 +1606,6 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2001,15 +1803,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarkerting | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2037,15 +1830,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | Flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | dance",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
@@ -2056,15 +1840,6 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | generic",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Fiji | SIA | Flash Sale Nov 2026 | Start=17-11-26 | End=24-11-26 | villa",
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-11-24",
