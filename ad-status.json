@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:23:44.683Z",
+  "generatedAt": "2026-11-24T20:23:44.451Z",
   "ads": [
     {
       "platform": "Meta",
@@ -3001,6 +3001,15 @@
     {
       "platform": "Pinterest",
       "name": "AU to US | Non Sale | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "Aug 2024 Sale Ads | Ends 13/10/24",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
