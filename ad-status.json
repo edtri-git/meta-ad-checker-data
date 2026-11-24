@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:24:23.028Z",
+  "generatedAt": "2026-11-24T06:23:46.244Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2910,6 +2910,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "US to NZ | TNZ Tourism Nov - Dec 2026 | SIA | 11/11/26 - 03/12/26 | tactical",
+      "type": "DATED SALE",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "US to NZ | TNZ Tourism Nov - Dec 2026 | SIA | 11/11/26 - 04/12/26",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
@@ -2919,21 +2928,12 @@
     },
     {
       "platform": "Pinterest",
-      "name": "US to NZ | TNZ Tourism Nov - Dec 2026 | SIA | 11/11/26 - 23/11/26 | tactical",
+      "name": "US to NZ | TNZ Tourism Nov - Dec 2026 | Vid | 11/11/26 - 03/12/26 | tactical",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
-      "endDate": "2026-11-23",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-23 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
-      "name": "US to NZ | TNZ Tourism Nov - Dec 2026 | Vid | 11/11/26 - 23/11/26 | tactical",
-      "type": "DATED SALE",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-23",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-23 but ad still has recent impressions"
+      "endDate": "2026-12-03",
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
