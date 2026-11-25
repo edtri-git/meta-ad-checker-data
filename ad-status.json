@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:23:49.703Z",
+  "generatedAt": "2026-11-25T17:24:01.202Z",
   "ads": [
     {
       "platform": "Meta",
@@ -997,6 +997,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2826,6 +2835,15 @@
       "endDate": "2026-11-24",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-24 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
