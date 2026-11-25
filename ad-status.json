@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:23:45.925Z",
+  "generatedAt": "2026-11-25T01:24:31.514Z",
   "ads": [
     {
       "platform": "Meta",
@@ -229,6 +229,15 @@
     {
       "platform": "Meta",
       "name": "Australia | BFCM Nov 2026 | Lead Gen | Static Ads | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Bulamail | Lead Gen | Static Ads | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -706,6 +715,15 @@
     {
       "platform": "Meta",
       "name": "Canada | BFCM Nov 2026 | Lead Gen | Static Ads",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Bulamail | Lead Gen | Static Ads",
       "type": "NO TAG FOUND",
       "startDate": null,
       "endDate": null,
@@ -1533,6 +1551,15 @@
     },
     {
       "platform": "Meta",
+      "name": "New Zealand | Bulamail | Lead Gen | Static Ads",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
+    },
+    {
+      "platform": "Meta",
       "name": "New Zealand | Flights | Business Class | Static Ads | Fiji | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2299,6 +2326,15 @@
     {
       "platform": "Meta",
       "name": "United States | BFCM Nov 2026 | Lead Gen | Static Ads | Always on",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Bulamail | Lead Gen | Static Ads | Always on",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
