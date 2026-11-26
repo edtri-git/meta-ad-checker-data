@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:23:44.149Z",
+  "generatedAt": "2026-11-26T17:24:27.942Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2325,6 +2325,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2952,6 +2961,15 @@
       "endDate": "2026-11-24",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-24 but ad still has recent impressions"
+    },
+    {
+      "platform": "Pinterest",
+      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "Pinterest",
