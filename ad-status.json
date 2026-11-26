@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:24:30.511Z",
+  "generatedAt": "2026-11-26T09:23:43.974Z",
   "ads": [
     {
       "platform": "Meta",
@@ -31,15 +31,6 @@
     {
       "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | CA",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | JP",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -147,15 +138,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Samoa | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -184,15 +166,6 @@
     {
       "platform": "Meta",
       "name": "Australia | Bulamail | Lead Gen | Static Ads | Always on",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Business Class | Static Ads | Fiji | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -309,15 +282,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Pacific Islands | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Singapore | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -426,15 +390,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Samoa | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -498,15 +453,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Ski Ji | Static Ads | Fiji | SIA | Non Sale | Always on | CA",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Ski Ji | Static Ads | Fiji | SIA | Non Sale | Always on | JP",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -561,7 +507,7 @@
     },
     {
       "platform": "Meta",
-      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -612,15 +558,6 @@
       "endDate": null,
       "action": "CHECK NAME",
       "note": "No Always On tag and no recognisable date range found"
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Flights | Business Class | Audience Segment | Static Ads | Fiji | SIA | Non Sale | Always on",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Meta",
@@ -732,34 +669,7 @@
     },
     {
       "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | Carousel | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | Flexible | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | culture",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -781,15 +691,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -868,15 +769,6 @@
     {
       "platform": "Meta",
       "name": "Europe | Advantage+ | Prospecting | Static Ads | Fiji | Tiktok Video 1 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Europe | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -993,24 +885,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1047,46 +921,10 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Carousel | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | generic",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
       "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1137,24 +975,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Japan | Prospecting | Static Ads | Fiji | flexible | Flash Sale Nov 2026 | Start=17-11-26 | End=03-12-26 | round trip | EN",
-      "type": "DATED SALE",
-      "startDate": "2026-11-17",
-      "endDate": "2026-12-03",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1165,15 +985,6 @@
     {
       "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | Video | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1407,15 +1218,6 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Flights | Business Class | Static Ads | Fiji | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Flights | High Networth | Static Ads | Flexible | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1587,15 +1389,6 @@
     },
     {
       "platform": "Meta",
-      "name": "New Zealand | Remarketing | Static Ads | Singapore | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "New Zealand | Remarketing | Static Ads | Tonga | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -1677,15 +1470,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Pacific Islands | Samoa | Prospecting | Static Ads | Australia | Carousel | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1750,15 +1534,6 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | Australia | Carousel | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Pacific Islands | Solomon Islands | Prospecting | Static Ads | New Zealand | SIA | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -1938,15 +1713,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Singapore | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Singapore | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -1983,33 +1749,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2029,6 +1768,15 @@
     {
       "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | Flexible | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -2059,15 +1807,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Advantage+ | Prospecting | Static Ads | Fiji | SIA | Non Sale | Always On | Aadvantage | Couple",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2208,24 +1947,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarkerting | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | Australia | Carousel | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2298,15 +2019,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United States | Remarketing | Static Ads | New Zealand | SIA | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Pacific Islands | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2335,15 +2047,6 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Tourism Fiji | WHCN | Fiji | SIA | Non Sale | Always On | rope swing",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "United States | Sales | Static Ads | Fiji | Audience Segment | Business Class | SIA | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2451,52 +2154,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
       "name": "1_mb9ZnwVo.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2514,12 +2172,21 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4",
-      "type": "MALFORMED NAME",
+      "name": "1_mb9ZnwVo.mp4_CA to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "download(1)_98M0aIsK.mp4_NZ to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -2532,7 +2199,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_CA to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2550,7 +2226,25 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_NZ to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "BLACK FRIDAY SALE_USA to FJ_(9.16)_1kZvrs69.mp4_US to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "BLACK FRIDAY SALE_CANADA to FJ_(9.16)_Kndur7li.mp4_CA to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2559,21 +2253,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
-      "type": "EVERGREEN (no date found)",
+      "name": "2_1Q2IcvpW.mp4",
+      "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -2595,7 +2280,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_CA to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "download(1)_vCXYeHmh.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2613,7 +2298,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "1_mb9ZnwVo.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2631,16 +2316,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_CANADA to FJ_(9.16)_Kndur7li.mp4_CA to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_US to FJ | Non Sale | 15 sec | BFCM Nov 2026 | Always on",
+      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2649,7 +2325,16 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to FJ | Non Sale | 30 sec | Always on_1_mb9ZnwVo.mp4",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "TikTok",
+      "name": "2_1Q2IcvpW.mp4_AU to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2662,24 +2347,6 @@
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_Is Almost Here_BLACK(9.16)_SA5oamPF.mp4_AU to FJ | Non Sale | 30 sec | BFCM Nov 2026 | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_USA to FJ_(9.16)_1kZvrs69.mp4_US to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2928,6 +2595,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "CA to AU | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "CA to FJ | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2952,15 +2628,6 @@
       "endDate": "2026-11-24",
       "action": "PAUSE",
       "note": "Sale window ended 2026-11-24 but ad still has recent impressions"
-    },
-    {
-      "platform": "Pinterest",
-      "name": "CA to FJ | Non Sale | July 2025 | SIA | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
     },
     {
       "platform": "Pinterest",
@@ -3028,15 +2695,6 @@
     {
       "platform": "Pinterest",
       "name": "Consideration Ad | Shades of Fiji Happiness",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Pinterest",
-      "name": "Conversions | ?????????",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -3207,10 +2865,19 @@
     },
     {
       "platform": "Pinterest",
-      "name": "Sep 2024 Sale | Ends on 13/10/24",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "US to AU | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "US to AU | BFCM Sale Nov 2026 | Vid | 25/11/26 - 29/11/26 | RT",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
