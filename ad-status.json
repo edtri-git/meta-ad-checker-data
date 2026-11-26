@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:23:44.533Z",
+  "generatedAt": "2026-11-26T11:23:50.198Z",
   "ads": [
     {
       "platform": "Meta",
@@ -732,6 +732,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Pacific Islands | Carousel | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Sales | Static Ads | New Zealand | TNZ Tourism Nov - Dec 2026 |SIA | start=11-11-26 | end=04-12-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-11-11",
@@ -970,6 +979,15 @@
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Hong Kong | Remarketing | Static Ads | Fiji | Flexible | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | rt",
+      "type": "DATED SALE",
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-02",
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -1552,6 +1570,15 @@
     {
       "platform": "Meta",
       "name": "Pacific Islands | New Caledonia | Prospecting | Static Ads | Carousel | Non Sale | Always On | FR",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Pacific Islands | New Caledonia | Remarketing | Static Ads | Carousel | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
@@ -2343,19 +2370,19 @@
     },
     {
       "platform": "TikTok",
-      "name": "BLACK FRIDAY SALE_USA to FJ_(9.16)_1kZvrs69.mp4_US to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
+      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_AU to AU | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
-      "startDate": null,
-      "endDate": null,
+      "name": "BLACK FRIDAY SALE_USA to FJ_(9.16)_1kZvrs69.mp4_US to FJ | BFCM Sale Nov 2026 | 15 sec | 25/11/26 - 29/11/26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
