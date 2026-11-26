@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:23:45.840Z",
+  "generatedAt": "2026-11-26T03:23:43.975Z",
   "ads": [
     {
       "platform": "Meta",
@@ -525,6 +525,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Advantage+ | Prospecting | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Advantage+ | Prospecting | Static Ads | Fiji | Carousel | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -606,6 +615,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Reach | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Fiji | Carousel | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -682,6 +700,15 @@
       "type": "DATED SALE",
       "startDate": "2026-11-11",
       "endDate": "2026-12-04",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Canada | Remarketing | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
     },
