@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:23:50.198Z",
+  "generatedAt": "2026-11-26T12:23:44.170Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2514,6 +2514,15 @@
     },
     {
       "platform": "Pinterest",
+      "name": "AU to FJ | BFCM 24 Hr Sale Nov 2026 | SIA | 27/11/26",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
       "name": "AU to FJ | BFCM Sale Nov 2026 | SIA | 25/11/26 - 29/11/26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2686,6 +2695,15 @@
     {
       "platform": "Pinterest",
       "name": "AU to US | Awareness | Non Sale | Sep 2025 | SIA | Always On",
+      "type": "EVERGREEN (no date found)",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Pinterest",
+      "name": "AU to US | Awareness | Non Sale | Sep 2025 | SIA | Always On | Paused",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
