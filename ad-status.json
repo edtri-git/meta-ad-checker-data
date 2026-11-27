@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:23:44.581Z",
+  "generatedAt": "2026-11-27T00:23:44.285Z",
   "ads": [
     {
       "platform": "Meta",
@@ -2199,6 +2199,15 @@
     },
     {
       "platform": "Meta",
+      "name": "United States | Reach | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "United States | Reach | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2299,6 +2308,15 @@
     {
       "platform": "Meta",
       "name": "United States | Remarketing | Static Ads | Fiji | Flexible | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United States | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
