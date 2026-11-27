@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:24:34.066Z",
+  "generatedAt": "2026-11-27T19:23:49.586Z",
   "ads": [
     {
       "platform": "Meta",
@@ -1254,6 +1254,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
       "name": "Japan | Reach | Static Ads | Fiji | SIA | Destination Shift | Non Sale | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
@@ -2083,6 +2092,15 @@
     {
       "platform": "Meta",
       "name": "United Kingdom | Remarketing | Static Ads | Fiji | Tiktok Video 1 | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
       "type": "ALWAYS ON / NON SALE",
       "startDate": null,
       "endDate": null,
