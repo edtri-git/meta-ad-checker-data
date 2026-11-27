@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:23:49.586Z",
+  "generatedAt": "2026-11-27T20:23:49.485Z",
   "ads": [
     {
       "platform": "Meta",
@@ -58,6 +58,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | CA",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | JP",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -1438,6 +1447,15 @@
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "New Zealand | Advantage+ | Prospecting | Static Ads | Hong Kong | SIA | Non Sale | Always On",
+      "type": "ALWAYS ON / NON SALE",
+      "startDate": null,
+      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
