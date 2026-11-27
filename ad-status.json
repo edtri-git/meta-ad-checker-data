@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:23:49.560Z",
+  "generatedAt": "2026-11-27T22:23:46.369Z",
   "ads": [
     {
       "platform": "Meta",
@@ -481,6 +481,15 @@
     {
       "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
+      "type": "DATED SALE",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-29",
+      "action": "KEEP ACTIVE",
+      "note": ""
+    },
+    {
+      "platform": "Meta",
+      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | culture",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
