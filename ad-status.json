@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:23:44.050Z",
+  "generatedAt": "2026-11-28T10:23:51.034Z",
   "ads": [
     {
       "platform": "Meta",
@@ -27,33 +27,6 @@
       "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | 2 friends",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -120,33 +93,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | OOL BFCM 24 hrs Sale Nov 2026 OOL | Start=27-11-26 | End=27-11-26 | 2 friends",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | OOL BFCM 24 hrs Sale Nov 2026 OOL | Start=27-11-26 | End=27-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | OOL BFCM 24 hrs Sale Nov 2026 OOL | Start=27-11-26 | End=27-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | SIA | OOL BFCM Sale Nov 2026 OOL | Start=25-11-26 | End=29-11-26 | 2 friends",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -189,15 +135,6 @@
       "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Advantage+ | Prospecting | Static Ads | Fiji | flexible | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -291,33 +228,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | 2 friends",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Reach | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -360,15 +270,6 @@
       "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Reach | Static Ads | Fiji | flexible | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -444,33 +345,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | 2 friends",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | couple",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26 | culture",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
-    },
-    {
-      "platform": "Meta",
       "name": "Australia | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -513,15 +387,6 @@
       "endDate": "2026-11-29",
       "action": "KEEP ACTIVE",
       "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Australia | Remarketing | Static Ads | Fiji | flexible | BFCM 24 Hrs Sale Nov 2026 | Start=27-11-26 | End=27-11-26",
-      "type": "DATED SALE",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "action": "PAUSE",
-      "note": "Sale window ended 2026-11-27 but ad still has recent impressions"
     },
     {
       "platform": "Meta",
@@ -732,6 +597,15 @@
     },
     {
       "platform": "Meta",
+      "name": "Canada | Bulamail | Lead Gen | Static Ads",
+      "type": "NO TAG FOUND",
+      "startDate": null,
+      "endDate": null,
+      "action": "CHECK NAME",
+      "note": "No Always On tag and no recognisable date range found"
+    },
+    {
+      "platform": "Meta",
       "name": "Canada | Reach | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -868,15 +742,6 @@
     {
       "platform": "Meta",
       "name": "Canada | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | business class",
-      "type": "DATED SALE",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-29",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Canada | Remarketing | Static Ads | Fiji | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26 | couple",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
       "endDate": "2026-11-29",
@@ -1191,15 +1056,6 @@
     },
     {
       "platform": "Meta",
-      "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | culture | rt",
-      "type": "DATED SALE",
-      "startDate": "2026-10-14",
-      "endDate": "2026-12-02",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "Hong Kong | Remarketing | Static Ads | Fiji | SIA | Global Sale Q4 Oct 2026 | Start=14-10-26 | End=02-12-26 | family | rt",
       "type": "DATED SALE",
       "startDate": "2026-10-14",
@@ -1267,15 +1123,6 @@
       "type": "DATED SALE",
       "startDate": "2026-11-17",
       "endDate": "2026-12-03",
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
-      "name": "Japan | Reach | Static Ads | Fiji | Carousel | Destination Shift | Non Sale | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
       "action": "KEEP ACTIVE",
       "note": ""
     },
@@ -2127,15 +1974,6 @@
     },
     {
       "platform": "Meta",
-      "name": "United Kingdom | Remarketing | Static Ads | Fiji | Video | Generic Video 2 | Always On",
-      "type": "ALWAYS ON / NON SALE",
-      "startDate": null,
-      "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
-    },
-    {
-      "platform": "Meta",
       "name": "United States | Advantage+ | Prospecting | Static Ads | Australia | SIA | BFCM Sale Nov 2026 | Start=25-11-26 | End=29-11-26",
       "type": "DATED SALE",
       "startDate": "2026-11-25",
@@ -2586,12 +2424,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
-      "type": "EVERGREEN (no date found)",
+      "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
+      "type": "MALFORMED NAME",
       "startDate": null,
       "endDate": null,
-      "action": "KEEP ACTIVE",
-      "note": ""
+      "action": "CHECK NAME",
+      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
     },
     {
       "platform": "TikTok",
@@ -2604,12 +2442,12 @@
     },
     {
       "platform": "TikTok",
-      "name": "2_1Q2IcvpW.mp4_2_1Q2IcvpW.mp4_2_r5PDmCxB.mp4_Australia Tiktok 3",
-      "type": "MALFORMED NAME",
+      "name": "download(1)_98M0aIsK.mp4_CA to FJ | Non Sale | 15 sec | Always on",
+      "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
-      "action": "CHECK NAME",
-      "note": "No date range and no pipe-delimited structure, looks like a raw filename rather than a proper ad name"
+      "action": "KEEP ACTIVE",
+      "note": ""
     },
     {
       "platform": "TikTok",
@@ -2694,7 +2532,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
+      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2712,7 +2550,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
+      "name": "US to AU | Gold Coast | Non Sale | 30 sec | Always on_ONLINE_WF_Intbound_FJ - OOL(9.16)_lHc9wdfV.mp4",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
@@ -2721,7 +2559,7 @@
     },
     {
       "platform": "TikTok",
-      "name": "3_XqFvOZu5.mp4_AU to FJ | Non Sale | 30 sec | Always on",
+      "name": "download(1)_98M0aIsK.mp4_US to FJ | Non Sale | 15 sec | Always on",
       "type": "EVERGREEN (no date found)",
       "startDate": null,
       "endDate": null,
